@@ -1,0 +1,72 @@
+---
+---
+
+// Gies College of Business / University of Illinois Brand Colors
+$illini-orange: #FF5F05;
+$illini-blue: #13294B;
+$illini-white: #FFFFFF;
+$illini-light-gray: #F5F5F5;
+
+// Override Cayman theme colors
+$header-bg-color: $illini-blue !default;
+$header-bg-color-secondary: $illini-orange !default;
+$section-headings-color: $illini-blue !default;
+$body-link-color: $illini-orange !default;
+$blockquote-text-color: $illini-blue !default;
+
+@import "jekyll-theme-cayman";
+
+// Additional Gies branding customizations
+.page-header {
+  background-image: linear-gradient(120deg, $illini-blue, darken($illini-blue, 10%));
+}
+
+.project-name {
+  color: $illini-white;
+}
+
+.project-tagline {
+  color: rgba($illini-white, 0.9);
+}
+
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    color: $illini-blue;
+  }
+
+  a {
+    color: $illini-orange;
+
+    &:hover {
+      color: darken($illini-orange, 10%);
+    }
+  }
+
+  table {
+    th {
+      background-color: $illini-blue;
+      color: $illini-white;
+    }
+
+    tr:nth-child(even) {
+      background-color: $illini-light-gray;
+    }
+  }
+
+  // Style checkmarks
+  li {
+    &::marker {
+      color: $illini-orange;
+    }
+  }
+}
+
+// Button styling (if any)
+.btn {
+  background-color: $illini-orange;
+  border-color: $illini-orange;
+
+  &:hover {
+    background-color: darken($illini-orange, 10%);
+  }
+}

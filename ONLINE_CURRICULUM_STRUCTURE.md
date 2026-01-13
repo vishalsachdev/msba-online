@@ -41,7 +41,7 @@
 
 | Course | Credits | Weeks | Instructor | Notes |
 |--------|---------|-------|------------|-------|
-| **BADM 558 - Big Data Infrastructure** | 4 | Weeks 1-8 | TBD | AWS, cloud computing, data engineering with Python |
+| **BADM 558 - Big Data Infrastructure** | 4 | Weeks 1-8 | Ashish | AWS, cloud computing, data engineering with Python |
 | **Generative AI for Analytics** | 2 | Weeks 1-8 | TBD | Concurrent with 558 - prompt engineering, AI workflows |
 | **Quantum Computing for Optimization** | 2 | Weeks 9-16 | TBD | Business-focused quantum fundamentals, simulators |
 | **Semester Total** | **8** | | | |
@@ -118,6 +118,7 @@
 
 | Course | Instructor | Semester | Notes |
 |--------|------------|----------|-------|
+| **BADM 558 - Big Data Infrastructure** | Ashish | Spring 2027 | AWS, cloud computing, data engineering |
 | **BADM 557 - Decision Intelligence with AI** | Gautam | Summer 2027 | Case-based, BI focus |
 | **BADM 576 - Data Science & Machine Learning** | Zilong | Fall 2027 | Comprehensive ML coverage |
 | All other courses | TBD | Various | Assign by May 2026 |

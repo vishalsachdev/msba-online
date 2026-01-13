@@ -30,6 +30,7 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 
 | Document | Purpose | For Whom |
 |----------|---------|----------|
+| **[Curriculum Review](../CURRICULUM_REVIEW.md)** | AI-first trends, assessment strategies, scaffolding analysis | Leadership, faculty, curriculum committee |
 | **[Core Courses Analysis](../CORE_COURSES.md)** | Online conversion challenges, technology needs | Faculty, tech team |
 | **[Workload Analysis](../WORKLOAD_ANALYSIS.md)** | Week-by-week pacing, assessment clustering, skill timeline | Faculty, instructional designers |
 | **[Electives Analysis](../ELECTIVES_ANALYSIS.md)** | Course audit (BADM 557, 558, 576), syllabus comparison | Faculty, curriculum committee |

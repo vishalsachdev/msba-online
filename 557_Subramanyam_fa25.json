@@ -1,0 +1,146 @@
+{
+  "id": "557_Subramanyam_fa25",
+  "course_number": "557",
+  "course_level": "500",
+  "variant": "Subramanyam",
+  "instructor": "Subramanyam",
+  "semester": "fa25",
+  "file_type": "pdf",
+  "course_title": "Business Intelligence",
+  "catalog_title": "Topics in Business Intelligence",
+  "catalog_description": "Provides students understanding of data analytics lifecycle, decision-making frameworks, and tools. Covers data curation, quantitative analysis, exploratory/predictive modeling with case-based and hands-on analytics toolkit approach using Tableau and Python.",
+  "credits": 3,
+  "prerequisites": {
+    "required": [],
+    "recommended": [],
+    "raw_text": "None listed"
+  },
+  "learning_objectives": [
+    "Define and apply a Business Data Analytics Life Cycle perspective to business problems",
+    "Understand organizational considerations in data-driven decision-making",
+    "Understand how organizations plan for and govern data analytics efforts",
+    "Develop familiarity with data visualization tools (Tableau)",
+    "Gain understanding of how managers use business analytics to formulate and solve problems",
+    "Create and apply basic data analytic models for different decision contexts",
+    "Learn techniques like multivariate regression, logistic regression, decision trees, k-Nearest Neighbor, Naïve Bayes, k-means clustering, text mining, and sentiment analysis",
+    "Understand the suitability of different techniques for different business contexts"
+  ],
+  "topics": [
+    {
+      "week": "",
+      "topic": "Business Intelligence and Analytics Life Cycle",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Data Curation and Data Governance",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Case-based Learning: Business Problem Formulation",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Data Visualization and Tableau Fundamentals",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Exploratory Data Analysis",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Multivariate Regression Analysis",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Logistic Regression",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Decision Trees",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "k-Nearest Neighbor (k-NN)",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Naïve Bayes Classification",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "k-means Clustering",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Text Mining and Sentiment Analysis",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Basic Python Programming for Analytics",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Data Science Libraries and Tools",
+      "readings": []
+    },
+    {
+      "week": "",
+      "topic": "Final Project Presentations",
+      "readings": []
+    }
+  ],
+  "assessments": [
+    {
+      "type": "share and tell",
+      "weight": 5.0,
+      "description": "Brief 3-minute presentation on data science/analytics theme from current news or case study"
+    },
+    {
+      "type": "case/article response submissions",
+      "weight": 35.0,
+      "description": "Written assignments (1.5 page max) due at start of class"
+    },
+    {
+      "type": "class participation",
+      "weight": 16.0,
+      "description": "50% attendance, 50% participation quality in discussions"
+    },
+    {
+      "type": "quiz on algorithm basics",
+      "weight": 22.0,
+      "description": "Individual/multiple-choice quiz covering algorithmic techniques"
+    },
+    {
+      "type": "project presentation and submission",
+      "weight": 22.0,
+      "description": "Idea, technique, outcome, Tableau dashboard, Python code, presentation"
+    }
+  ],
+  "tools_software": [
+    "Tableau (Desktop Academic Edition or Public)",
+    "Python (Google Colab or Anaconda)",
+    "Jupyter Notebooks",
+    "Microsoft Excel/Office 365",
+    "Harvard Business School Coursepack"
+  ],
+  "textbooks": [
+    "HBS Coursepack: BADM 557 - Business Intelligence - Fall 2025 - RS",
+    "Introduction to Machine Learning with Python by Andreas C. Müller and Sarah Guido",
+    "Understanding Generative AI Business Applications by Irena Cronin"
+  ],
+  "course_format": "Case-based discussion (1/3), hands-on data visualization tools (1/3), Python programming and data science libraries (1/3)",
+  "notes": "Weekend course (1 session per week), discussion-based with readings required before class, project-heavy with Tableau and Python components"
+}

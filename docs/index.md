@@ -26,15 +26,6 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 | **[Electives Roadmap](ELECTIVES_ROADMAP.md)** | New electives, specialization tracks, certificates | Faculty, program director |
 | **[Cohort Model](COHORT_MODEL.md)** | Student experience, studio sessions, community | Faculty, student services, program manager |
 
-### Research & Analysis
-
-| Document | Purpose | For Whom |
-|----------|---------|----------|
-| **[Curriculum Review](CURRICULUM_REVIEW.md)** | AI-first trends, assessment strategies, scaffolding analysis | Leadership, faculty, curriculum committee |
-| **[Core Courses Analysis](CORE_COURSES.md)** | Online conversion challenges, technology needs | Faculty, tech team |
-| **[Workload Analysis](WORKLOAD_ANALYSIS.md)** | Week-by-week pacing, assessment clustering, skill timeline | Faculty, instructional designers |
-| **[Electives Analysis](ELECTIVES_ANALYSIS.md)** | Course audit (BADM 557, 558, 576), syllabus comparison | Faculty, curriculum committee |
-
 ---
 
 ## 🎯 Program At A Glance
@@ -237,12 +228,6 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 - [Detailed Course Adaptations (All 6 Courses)](COURSE_ADAPTATIONS.md)
 - [Electives Roadmap & Specialization Tracks](ELECTIVES_ROADMAP.md)
 - [Cohort Model & Student Experience](COHORT_MODEL.md)
-
-### Analysis & Research
-- [Curriculum Review (AI-First Trends & Assessment)](CURRICULUM_REVIEW.md)
-- [Core Courses Online Conversion Analysis](CORE_COURSES.md)
-- [Weekly Workload & Pacing Analysis](WORKLOAD_ANALYSIS.md)
-- [Electives Audit & Course Comparison](ELECTIVES_ANALYSIS.md)
 
 ---
 

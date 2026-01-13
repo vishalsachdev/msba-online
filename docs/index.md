@@ -63,37 +63,4 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 
 ---
 
-## 📚 Complete Document Index
-
-### Strategic Documents
-- [AI-First Strategy & Market Positioning](MSBAI_AI_FIRST_STRATEGY.md)
-- [Guiding Principles & Constraints](MSBAI_GUIDING_PRINCIPLES_AND_CONSTRAINTS.md)
-
-### Curriculum Documents
-- [Online Curriculum Structure (8-Week Format)](ONLINE_CURRICULUM_STRUCTURE.md)
-- [Detailed Course Adaptations (All 6 Courses)](COURSE_ADAPTATIONS.md)
-- [Electives Roadmap & Specialization Tracks](ELECTIVES_ROADMAP.md)
-- [Cohort Model & Student Experience](COHORT_MODEL.md)
-
----
-
-## 📞 Contact
-
-**Program Director:** [TBD]
-**Email:** [msba-online@illinois.edu] (TBD)
-**GitHub Repo:** [github.com/vishalsachdev/msba-online](https://github.com/vishalsachdev/msba-online)
-
----
-
-## 📄 License & Attribution
-
-**Documentation prepared:** January 12, 2026
-**Lead:** Claude Code (Anthropic Claude AI)
-**Status:** Ready for faculty course development & implementation
-
-All course materials, syllabi, and curriculum designs are proprietary to Gies College of Business, University of Illinois. Internal use only.
-
----
-
-*Last Updated: January 12, 2026*
-*Next: Faculty assignments + content development kickoff*
+*Last Updated: January 2026 | Gies College of Business*

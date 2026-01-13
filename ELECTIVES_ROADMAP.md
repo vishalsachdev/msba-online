@@ -32,7 +32,7 @@ This document specifies the TBD elective courses and industry-specific specializ
 
 ### Elective 1: Generative AI for Analytics (BADM 5XX or MSBAi550A)
 
-**Credits:** 2 | **Term:** Spring 1 (Weeks 17-24, concurrent with BADM 557) | **Status:** ✅ Ready for design
+**Credits:** 2 | **Term:** Spring 2027 (Weeks 1-8, concurrent with BADM 557) | **Status:** ✅ Ready for design
 
 #### Course Vision
 
@@ -60,18 +60,18 @@ Students master generative AI tools (Claude, ChatGPT, Copilot) applied to analyt
 
 | Week | Topic | Activities | Projects | Assessment |
 |------|-------|-----------|----------|------------|
-| **17** | LLM fundamentals + prompt engineering 101 | Lectures (2 videos), interactive prompts | Hands-on: Write prompts for 5 analytics tasks | Prompt evaluation |
-| **18** | AI for SQL + data exploration | Live demos of Claude/ChatGPT for SQL | Write 10+ SQL queries with AI assist | Code quality review |
-| **19** | AI for Python code generation + debugging | Live demos of code generation + fixing errors | Generate project code using AI | Code review + efficiency |
-| **20** | AI for feature engineering + ML workflows | Feature ideation with AI, prompt engineering | Feature engineering ideas + implementation | Feature analysis |
-| **21** | AI for data storytelling + communication | Writing narratives with AI, editing | Create analysis report with AI assist | Writing quality |
-| **22** | AI for statistics + model interpretation | Explaining statistical concepts with AI | Interpret model results using AI | Interpretation quality |
-| **23** | Ethics, bias, and responsible AI use | Case studies of AI failures, bias audits | Audit AI outputs for bias + risks | Bias analysis |
-| **24** | Capstone: Building AI-augmented systems | Design your own AI+human workflow | Create reusable prompt templates | Portfolio + presentation |
+| **1** | LLM fundamentals + prompt engineering 101 | Lectures (2 videos), interactive prompts | Hands-on: Write prompts for 5 analytics tasks | Prompt evaluation |
+| **2** | AI for SQL + data exploration | Live demos of Claude/ChatGPT for SQL | Write 10+ SQL queries with AI assist | Code quality review |
+| **3** | AI for Python code generation + debugging | Live demos of code generation + fixing errors | Generate project code using AI | Code review + efficiency |
+| **4** | AI for feature engineering + ML workflows | Feature ideation with AI, prompt engineering | Feature engineering ideas + implementation | Feature analysis |
+| **5** | AI for data storytelling + communication | Writing narratives with AI, editing | Create analysis report with AI assist | Writing quality |
+| **6** | AI for statistics + model interpretation | Explaining statistical concepts with AI | Interpret model results using AI | Interpretation quality |
+| **7** | Ethics, bias, and responsible AI use | Case studies of AI failures, bias audits | Audit AI outputs for bias + risks | Bias analysis |
+| **8** | Capstone: Building AI-augmented systems | Design your own AI+human workflow | Create reusable prompt templates | Portfolio + presentation |
 
 #### Projects (2 major)
 
-**Project 1: AI Workflow Comparison (Weeks 17-20, Individual, 40% of grade)**
+**Project 1: AI Workflow Comparison (Weeks 1-4, Individual, 40% of grade)**
 - **Task:** Complete a complex analytics task (e.g., build a classifier) both manually and with AI assist
 - **Deliverables:**
   - Traditional approach: Code written from scratch, time logged
@@ -80,7 +80,7 @@ Students master generative AI tools (Claude, ChatGPT, Copilot) applied to analyt
   - Write-up: When to use AI, when manual work is better
   - GitHub repo with both approaches
 
-**Project 2: Capstone AI System (Weeks 21-24, Individual, 50% of grade)**
+**Project 2: Capstone AI System (Weeks 5-8, Individual, 50% of grade)**
 - **Task:** Design a reusable AI-augmented workflow for your domain
 - **Deliverables:**
   - Prompt library (10+ prompts for common tasks)
@@ -111,7 +111,7 @@ Students master generative AI tools (Claude, ChatGPT, Copilot) applied to analyt
 
 ### Elective 2: Quantum Computing for Optimization (BADM 5XX or MSBAi510Q)
 
-**Credits:** 2 | **Term:** Spring 1 (Weeks 17-24, concurrent with BADM 557) | **Status:** ⚠️ Curriculum TBD
+**Credits:** 2 | **Term:** Spring 2027 (Weeks 1-8, concurrent with BADM 557) | **Status:** ⚠️ Curriculum TBD
 
 #### Course Vision
 
@@ -137,18 +137,18 @@ Students explore quantum computing fundamentals and applications to business opt
 
 | Week | Topic | Activities | Projects |
 |------|-------|-----------|----------|
-| **17** | Quantum fundamentals (non-technical) | Lectures + interactive simulators | Understand qubits + superposition |
-| **18** | Quantum algorithms overview | VQE, QAOA, Grover's explained simply | Implement simple algorithm |
-| **19** | Optimization problems + quantum advantage | When quantum helps (TSP, portfolio, scheduling) | Map your domain problems |
-| **20** | Portfolio optimization case study | Real-world example: optimize financial portfolio | Quantum vs. classical comparison |
-| **21** | Quantum simulators hands-on | Use IBM Qiskit or Azure Quantum | Run algorithms on simulator |
-| **22** | Quantum hardware + future roadmap | Current limitations, timeline to useful quantum | Assess readiness for production |
-| **23** | Hybrid quantum-classical approaches | Combining quantum + classical for practical gain | Design hybrid system |
-| **24** | Capstone: Your quantum opportunity | Identify real problem + propose quantum approach | Presentation + business case |
+| **1** | Quantum fundamentals (non-technical) | Lectures + interactive simulators | Understand qubits + superposition |
+| **2** | Quantum algorithms overview | VQE, QAOA, Grover's explained simply | Implement simple algorithm |
+| **3** | Optimization problems + quantum advantage | When quantum helps (TSP, portfolio, scheduling) | Map your domain problems |
+| **4** | Portfolio optimization case study | Real-world example: optimize financial portfolio | Quantum vs. classical comparison |
+| **5** | Quantum simulators hands-on | Use IBM Qiskit or Azure Quantum | Run algorithms on simulator |
+| **6** | Quantum hardware + future roadmap | Current limitations, timeline to useful quantum | Assess readiness for production |
+| **7** | Hybrid quantum-classical approaches | Combining quantum + classical for practical gain | Design hybrid system |
+| **8** | Capstone: Your quantum opportunity | Identify real problem + propose quantum approach | Presentation + business case |
 
 #### Projects (1-2)
 
-**Project: Quantum Opportunity Analysis (Weeks 17-24, Individual, 100%)**
+**Project: Quantum Opportunity Analysis (Spring 2027, Weeks 1-8, Individual, 100%)**
 - **Task:** Identify a real business optimization problem + evaluate quantum computing potential
 - **Deliverables:**
   - Problem definition + classical solution approach
@@ -329,18 +329,18 @@ Students can tailor their elective selections to focus on specific industries. T
 
 ### Recommended Offering (Years 1-2)
 
-**Spring 1 2027 (Weeks 17-24):**
+**Spring 1 2027 (Spring 2027, Weeks 1-8):**
 - ✅ BADM 557: Decision Intelligence with AI (4cr, required)
 - ✅ Generative AI for Analytics (2cr, new elective)
 - ⚠️ Quantum Computing (2cr, optional/experimental)
 
-**Spring 2 2027 (Weeks 25-32):**
+**Spring 2 2027 (Spring 2027, Weeks 9-16):**
 - ✅ BADM 558: Big Data Infrastructure (4cr, required)
 
-**Summer 2027 (Weeks 33-40):**
+**Summer 2027 (Summer 2027, Weeks 1-8):**
 - ✅ BADM 576: Data Science & ML (4cr, required)
 
-**Fall 3 2027 (Weeks 41-48):**
+**Fall 3 2027 (Fall 2027, Weeks 1-8):**
 - **Option A (Recommended):** Data Engineering Specialization (4cr, new)
 - OR student choice of industry track elective (4cr)
 

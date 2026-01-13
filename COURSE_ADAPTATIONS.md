@@ -599,7 +599,7 @@ Students learn machine learning fundamentals applied to business problems. Unlik
 
 ## Part 4: BADM 557 - Decision Intelligence with AI
 
-**Credits:** 4 | **Term:** Spring 1 (Weeks 17-24) | **Status:** ✅ Ready for Spring 2027 launch
+**Credits:** 4 | **Term:** Spring 1 (Spring 2027, Weeks 1-8) | **Status:** ✅ Ready for Spring 2027 launch
 
 ### Course Vision
 
@@ -790,7 +790,7 @@ Students master business intelligence—combining data analysis, visualization, 
 
 ## Part 5: BADM 558 - Big Data Infrastructure
 
-**Credits:** 4 | **Term:** Spring 2 (Weeks 25-32) | **Status:** ✅ Ready for Spring 2027 launch
+**Credits:** 4 | **Term:** Spring 2 (Spring 2027, Weeks 9-16) | **Status:** ✅ Ready for Spring 2027 launch
 
 ### Course Vision
 
@@ -978,7 +978,7 @@ Students master cloud-based big data infrastructure. Using AWS services, student
 
 ## Part 6: BADM 576 - Data Science & Machine Learning
 
-**Credits:** 4 | **Term:** Summer (Weeks 33-40) | **Status:** ✅ Ready for Summer 2027 launch
+**Credits:** 4 | **Term:** Summer (Summer 2027, Weeks 1-8) | **Status:** ✅ Ready for Summer 2027 launch
 
 ### Course Vision
 

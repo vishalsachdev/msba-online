@@ -13,7 +13,7 @@
 ### **Fall 1** (Weeks 1-8, 2026)
 | Course | Credit | Format | Start-End |
 |--------|--------|--------|-----------|
-| **BADM 554** | 4 | Full course, 8 weeks | Fall 1 only |
+| **BADM 554 - Data Foundations** | 4 | Full course, 8 weeks | Fall 1 only |
 | **BDI 513 (Part 1)** | 2 | Part 1 of 2-part course | Fall 1 only |
 | **BDI 513 (Part 2)** | 2 | Part 2 of 2-part course | Fall 2 (8 weeks) |
 | **Total First Semester** | **8** | | |
@@ -30,8 +30,8 @@
 | Course | Credit | Format | Status |
 |--------|--------|--------|--------|
 | **BADM 557** (BI with AI) | 4 | 8 weeks | Ready |
-| **ANALYTICS ELECTIVE** (AI focus) | 2 | 8 weeks | ⚠️ **TBD** |
-| **Quantum Computing** | 2 | 8 weeks | ⚠️ **TBD** - Course rubric needed |
+| **Generative AI for Analytics** | 2 | 8 weeks | ✅ Ready for design |
+| **Quantum Computing for Optimization** | 2 | 8 weeks | ⚠️ Curriculum TBD |
 | **Total This Term** | **8** | | |
 | **Cumulative** | **20** | | |
 
@@ -69,42 +69,36 @@
 
 ### **Priority 1: Spring 1 Electives**
 
-#### **ANALYTICS ELECTIVE (AI Focus)** - 2 credits
-- **Current Status:** TBD - "AI suggestion needed"
+#### **✅ Generative AI for Analytics** - 2 credits
+- **Current Status:** ✅ Ready for design (see ELECTIVES_ROADMAP.md)
 - **Timing:** Spring 1 (same term as BADM 557)
-- **Requirements:**
-  - 8-week format
-  - AI/LLM applications focus (as per curriculum note #5)
-  - Python + Jupyter primary tools
-  - Stackable certificate eligible
-- **Suggested Options:**
-  - Advanced Prompt Engineering & LLMs
-  - AI for Data Analysis
-  - Machine Learning Operations (MLOps) with AI tools
-  - Retrieval-Augmented Generation (RAG) applications
-- **Decision Needed:** What should this course cover?
+- **Content:** Prompt engineering, AI-augmented analysis, Claude/ChatGPT/Copilot for analytics workflows
+- **Projects:** 2 major (AI workflow comparison, capstone AI system)
+- **Learning Outcomes:** Master AI tools for SQL, Python, feature engineering, storytelling
+- **Technology:** Claude API, ChatGPT, GitHub Copilot, Jupyter + Python
 
-#### **Quantum Computing** - 2 credits
-- **Current Status:** TBD - "Course rubric needed"
-- **Timing:** Spring 1 (same term as BADM 557 + AI elective)
-- **Questions:**
-  - Is this MSBAi or general university offering?
-  - Should it focus on quantum computing for analytics/optimization?
-  - Or quantum-resistant cryptography?
-  - Or introductory quantum algorithms?
-- **Decision Needed:** Course scope, instructor, learning objectives
+#### **⚠️ Quantum Computing for Optimization** - 2 credits
+- **Current Status:** ⚠️ Curriculum TBD (outline exists in ELECTIVES_ROADMAP.md)
+- **Timing:** Spring 1 (same term as BADM 557 + GenAI elective)
+- **Proposed Focus:** Business-focused quantum fundamentals, optimization applications, simulators
+- **Critical Decisions:**
+  - Instructor availability (quantum expertise needed)
+  - Depth (mathematical vs. business-focused)
+  - Platform choice (IBM Qiskit, Azure Quantum, D-Wave)
+  - Access to real quantum hardware vs. simulators only
 
 ### **Priority 2: Fall 3 Elective**
 
 #### **ANALYTICS ELECTIVE or GENERAL ELECTIVE** - 4 credits
-- **Current Status:** Flexible (marked with *)
+- **Current Status:** Flexible - student choice based on specialization track
 - **Timing:** Fall 3
-- **Options:**
-  - Second analytics elective (specialization track)
-  - General business/technical elective
-  - Capstone prep or research course
-  - Industry specialization (finance, healthcare, tech, etc.)
-- **Decision Needed:** Should this be required analytics or flexible?
+- **Options (see ELECTIVES_ROADMAP.md for details):**
+  - **Data Engineering Specialization** (BADM 5XX) - Production data systems at scale
+  - **Finance Analytics** - FIN 560+ courses (portfolio analysis, algorithmic trading, risk analytics)
+  - **Healthcare Analytics** - Patient outcomes, resource allocation, health economics
+  - **Marketing Analytics** - Customer segmentation, CLV, attribution modeling
+  - **General Business Elective** - Strategy, entrepreneurship, operations
+- **Current Decision:** Flexible elective (not required to be analytics-specific)
 
 ---
 
@@ -144,10 +138,10 @@ All MSBAi courses will use Python + Jupyter Notebooks, though:
 
 ## Core Courses: Ready for Launch (Fall 1 2026)
 
-### **✅ BADM 554 - Enterprise Database Management (4 credits)**
-- **On-campus reference:** 16 weeks, lab-heavy
+### **✅ BADM 554 - Data Foundations (4 credits)**
+- **On-campus reference:** 16 weeks, lab-heavy database management
 - **Online redesign:** 8 weeks, browser-based SQL + Python
-- **Key topics:** SQL fundamentals → joins → modeling → NoSQL basics
+- **Key topics:** SQL fundamentals → joins → modeling → NoSQL basics → ETL pipelines
 - **Environment:** SQLFiddle + Python (data manipulation + visualization)
 - **Assessment:** 4-5 mini-projects (replace 2 exams), hands-on labs as assignments
 
@@ -247,35 +241,39 @@ All MSBAi courses will use Python + Jupyter Notebooks, though:
 
 ---
 
-## Next Steps
+## Current Status & Next Actions
 
-### **Immediate (Week of Jan 13)**
-1. ✅ Parse on-campus syllabi and extract core concepts
-2. ⏳ **Define TBD courses:**
-   - AI Analytics Elective (2 credits, Spring 1) - content spec
-   - Quantum Computing (2 credits, Spring 1) - course rubric
-   - Fall 3 Elective (4 credits) - required or flexible?
-3. ⏳ **Create course adaptation specs for 8-week online format**
+### **Completed (as of Jan 13, 2026)**
+- ✅ Parsed on-campus syllabi and extracted core concepts
+- ✅ Created COURSE_ADAPTATIONS.md with detailed 8-week syllabi (554, 513, 550, 557, 558, 576)
+- ✅ Created ELECTIVES_ROADMAP.md with:
+  - ✅ Generative AI for Analytics (2 cr) - fully specified
+  - ⚠️ Quantum Computing for Optimization (2 cr) - outline exists, decisions needed
+  - ✅ Fall 3 flexible elective options mapped
+- ✅ Created COHORT_MODEL.md with sync sessions, community structure, support model
+- ✅ Defined AI-First Strategy and Guiding Principles
 
-### **Next (Week of Jan 20)**
-1. Create **COURSE_ADAPTATIONS.md** with detailed 8-week syllabus for each course
-2. Create **ELECTIVES_ROADMAP.md** with specialization tracks (Finance, Tech, Healthcare, etc.)
-3. Create **COHORT_MODEL.md** with sync touchpoints, community building, support structure
+### **In Progress**
+- ⚠️ **Quantum Computing course:** Finalize instructor, platform choice, depth level
+- ⚠️ **Assessment framework:** Cross-course rubric standards, AI attribution policy
+- ⚠️ **Technology stack:** JupyterHub vs. Colab, cloud credits allocation
 
-### **Following (Week of Jan 27)**
-1. **Create learning outcome maps** (MSBAi LOs vs. course LOs)
-2. **Design assessment framework** (rubrics, grading criteria)
-3. **Finalize technology stack** (Jupyter hosting, Python version, libraries, etc.)
+### **Next Priority Actions**
+1. **Quantum Computing:** Confirm instructor availability & course feasibility for Fall 2026 launch
+2. **Faculty recruitment:** Assign instructors to 6 core courses + 2 electives
+3. **Content development:** Record first 8 weeks of lectures (BADM 554, BDI 513 Part 1)
+4. **LMS setup:** Configure Canvas with 8-week course templates
 
 ---
 
-## Files Generated
+## Related Documents
 
-- `ONLINE_CURRICULUM_STRUCTURE.md` ← **You are here**
-- `COURSE_ADAPTATIONS.md` ← **Next: 554, 513, 550, 557, 558, 576 (8-week specs)**
-- `ELECTIVES_ROADMAP.md` ← **Define TBD courses & specialization tracks**
-- `COHORT_MODEL.md` ← **Sync schedule, community, support**
-- `CAPSTONE_DESIGN.md` ← **Fall 4 practicum details**
+- **This document:** `ONLINE_CURRICULUM_STRUCTURE.md` - Program timeline and course schedule
+- **Course syllabi:** `COURSE_ADAPTATIONS.md` - Detailed 8-week plans for all 6 courses
+- **Electives:** `ELECTIVES_ROADMAP.md` - New electives + specialization tracks
+- **Student experience:** `COHORT_MODEL.md` - Sync sessions, community, support
+- **Strategic vision:** `MSBAI_AI_FIRST_STRATEGY.md` - Positioning and differentiation
+- **Design principles:** `MSBAI_GUIDING_PRINCIPLES_AND_CONSTRAINTS.md` - 10 core principles
 
 ---
 

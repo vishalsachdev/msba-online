@@ -12,28 +12,28 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 
 | Document | Purpose | For Whom |
 |----------|---------|----------|
-| **[Program Overview](../CLAUDE.md)** | Program context, roadmap, session logs | Everyone (start here) |
-| **[AI-First Strategy](../MSBAI_AI_FIRST_STRATEGY.md)** | Strategic positioning, curriculum vision, pathways | Leadership, marketing, faculty leads |
-| **[Guiding Principles & Constraints](../MSBAI_GUIDING_PRINCIPLES_AND_CONSTRAINTS.md)** | 10 principles + hard/soft constraints | Faculty, instructional designers |
-| **[Implementation Plan](../IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md)** | 5-phase roadmap, timeline, resource allocation | Program manager, leadership |
+| **[Program Overview](CLAUDE.md)** | Program context, roadmap, session logs | Everyone (start here) |
+| **[AI-First Strategy](MSBAI_AI_FIRST_STRATEGY.md)** | Strategic positioning, curriculum vision, pathways | Leadership, marketing, faculty leads |
+| **[Guiding Principles & Constraints](MSBAI_GUIDING_PRINCIPLES_AND_CONSTRAINTS.md)** | 10 principles + hard/soft constraints | Faculty, instructional designers |
+| **[Implementation Plan](IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md)** | 5-phase roadmap, timeline, resource allocation | Program manager, leadership |
 
 ### Curriculum Design
 
 | Document | Purpose | For Whom |
 |----------|---------|----------|
-| **[Curriculum Structure](../ONLINE_CURRICULUM_STRUCTURE.md)** | 8-week program timeline, term breakdown, TBD courses | Everyone |
-| **[Course Adaptations](../COURSE_ADAPTATIONS.md)** | Detailed 8-week syllabi (554, 513, 550, 557, 558, 576) | Faculty instructors, content developers |
-| **[Electives Roadmap](../ELECTIVES_ROADMAP.md)** | New electives, specialization tracks, certificates | Faculty, program director |
-| **[Cohort Model](../COHORT_MODEL.md)** | Student experience, studio sessions, community | Faculty, student services, program manager |
+| **[Curriculum Structure](ONLINE_CURRICULUM_STRUCTURE.md)** | 8-week program timeline, term breakdown, TBD courses | Everyone |
+| **[Course Adaptations](COURSE_ADAPTATIONS.md)** | Detailed 8-week syllabi (554, 513, 550, 557, 558, 576) | Faculty instructors, content developers |
+| **[Electives Roadmap](ELECTIVES_ROADMAP.md)** | New electives, specialization tracks, certificates | Faculty, program director |
+| **[Cohort Model](COHORT_MODEL.md)** | Student experience, studio sessions, community | Faculty, student services, program manager |
 
 ### Research & Analysis
 
 | Document | Purpose | For Whom |
 |----------|---------|----------|
-| **[Curriculum Review](../CURRICULUM_REVIEW.md)** | AI-first trends, assessment strategies, scaffolding analysis | Leadership, faculty, curriculum committee |
-| **[Core Courses Analysis](../CORE_COURSES.md)** | Online conversion challenges, technology needs | Faculty, tech team |
-| **[Workload Analysis](../WORKLOAD_ANALYSIS.md)** | Week-by-week pacing, assessment clustering, skill timeline | Faculty, instructional designers |
-| **[Electives Analysis](../ELECTIVES_ANALYSIS.md)** | Course audit (BADM 557, 558, 576), syllabus comparison | Faculty, curriculum committee |
+| **[Curriculum Review](CURRICULUM_REVIEW.md)** | AI-first trends, assessment strategies, scaffolding analysis | Leadership, faculty, curriculum committee |
+| **[Core Courses Analysis](CORE_COURSES.md)** | Online conversion challenges, technology needs | Faculty, tech team |
+| **[Workload Analysis](WORKLOAD_ANALYSIS.md)** | Week-by-week pacing, assessment clustering, skill timeline | Faculty, instructional designers |
+| **[Electives Analysis](ELECTIVES_ANALYSIS.md)** | Course audit (BADM 557, 558, 576), syllabus comparison | Faculty, curriculum committee |
 
 ---
 
@@ -187,16 +187,16 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 
 ### For Faculty
 
-1. **Read first:** [Program Overview (CLAUDE.md)](../CLAUDE.md)
-2. **Understand strategy:** [AI-First Strategy](../MSBAI_AI_FIRST_STRATEGY.md) + [Guiding Principles](../MSBAI_GUIDING_PRINCIPLES_AND_CONSTRAINTS.md)
-3. **Your course:** Review [Course Adaptations](../COURSE_ADAPTATIONS.md) for your assigned course
-4. **Curriculum questions:** See [Implementation Plan](../IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md) Phase 1.1
+1. **Read first:** [Program Overview (CLAUDE.md)](CLAUDE.md)
+2. **Understand strategy:** [AI-First Strategy](MSBAI_AI_FIRST_STRATEGY.md) + [Guiding Principles](MSBAI_GUIDING_PRINCIPLES_AND_CONSTRAINTS.md)
+3. **Your course:** Review [Course Adaptations](COURSE_ADAPTATIONS.md) for your assigned course
+4. **Curriculum questions:** See [Implementation Plan](IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md) Phase 1.1
 
 **Next Step:** Attend faculty kickoff meeting (schedule TBD)
 
 ### For Program Leadership
 
-1. **Start here:** [Implementation Plan](../IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md) (full roadmap + resource allocation)
+1. **Start here:** [Implementation Plan](IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md) (full roadmap + resource allocation)
 2. **Budget:** See Phase 1-2 budget breakdown (~$550K year 1)
 3. **Timeline:** Critical milestones on page 2 of implementation plan
 4. **Enrollment:** See Phase 3 & recruitment strategy
@@ -205,20 +205,20 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 
 ### For Instructional Designers
 
-1. **Program context:** [CLAUDE.md](../CLAUDE.md) + [AI-First Strategy](../MSBAI_AI_FIRST_STRATEGY.md)
+1. **Program context:** [CLAUDE.md](CLAUDE.md) + [AI-First Strategy](MSBAI_AI_FIRST_STRATEGY.md)
 2. **Your assignments:**
    - Jupyter Book structure + guidelines
    - Grading rubrics + assessment consistency
    - Quality review of faculty-created content
-3. **Detailed specs:** [Course Adaptations](../COURSE_ADAPTATIONS.md)
+3. **Detailed specs:** [Course Adaptations](COURSE_ADAPTATIONS.md)
 
 **Next Step:** Meet with faculty to discuss Jupyter Book standards
 
 ### For Admissions & Student Services
 
-1. **Program overview:** [CLAUDE.md](../CLAUDE.md) + [AI-First Strategy](../MSBAI_AI_FIRST_STRATEGY.md)
-2. **Student experience:** [Cohort Model](../COHORT_MODEL.md) (support structure, community, onboarding)
-3. **Career outcomes:** [Implementation Plan](../IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md) Phase 3 (placement targets)
+1. **Program overview:** [CLAUDE.md](CLAUDE.md) + [AI-First Strategy](MSBAI_AI_FIRST_STRATEGY.md)
+2. **Student experience:** [Cohort Model](COHORT_MODEL.md) (support structure, community, onboarding)
+3. **Career outcomes:** [Implementation Plan](IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md) Phase 3 (placement targets)
 
 **Next Step:** Develop marketing materials + recruitment strategy
 
@@ -227,21 +227,22 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 ## 📚 Complete Document Index
 
 ### Strategic Documents
-- [Program Overview & Roadmap](../CLAUDE.md)
-- [AI-First Strategy & Market Positioning](../MSBAI_AI_FIRST_STRATEGY.md)
-- [Guiding Principles & Constraints](../MSBAI_GUIDING_PRINCIPLES_AND_CONSTRAINTS.md)
-- [5-Phase Implementation Plan & Task Breakdown](../IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md)
+- [Program Overview & Roadmap](CLAUDE.md)
+- [AI-First Strategy & Market Positioning](MSBAI_AI_FIRST_STRATEGY.md)
+- [Guiding Principles & Constraints](MSBAI_GUIDING_PRINCIPLES_AND_CONSTRAINTS.md)
+- [5-Phase Implementation Plan & Task Breakdown](IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md)
 
 ### Curriculum Documents
-- [Online Curriculum Structure (8-Week Format)](../ONLINE_CURRICULUM_STRUCTURE.md)
-- [Detailed Course Adaptations (All 6 Courses)](../COURSE_ADAPTATIONS.md)
-- [Electives Roadmap & Specialization Tracks](../ELECTIVES_ROADMAP.md)
-- [Cohort Model & Student Experience](../COHORT_MODEL.md)
+- [Online Curriculum Structure (8-Week Format)](ONLINE_CURRICULUM_STRUCTURE.md)
+- [Detailed Course Adaptations (All 6 Courses)](COURSE_ADAPTATIONS.md)
+- [Electives Roadmap & Specialization Tracks](ELECTIVES_ROADMAP.md)
+- [Cohort Model & Student Experience](COHORT_MODEL.md)
 
 ### Analysis & Research
-- [Core Courses Online Conversion Analysis](../CORE_COURSES.md)
-- [Weekly Workload & Pacing Analysis](../WORKLOAD_ANALYSIS.md)
-- [Electives Audit & Course Comparison](../ELECTIVES_ANALYSIS.md)
+- [Curriculum Review (AI-First Trends & Assessment)](CURRICULUM_REVIEW.md)
+- [Core Courses Online Conversion Analysis](CORE_COURSES.md)
+- [Weekly Workload & Pacing Analysis](WORKLOAD_ANALYSIS.md)
+- [Electives Audit & Course Comparison](ELECTIVES_ANALYSIS.md)
 
 ---
 

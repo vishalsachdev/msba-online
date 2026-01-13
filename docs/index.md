@@ -37,7 +37,7 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 1. **BADM 554** - Data Foundations (4 cr)
 2. **BDI 513** - Data Storytelling (4 cr, split 2+2)
 3. **FIN 550** - Analytics for Business (4 cr)
-4. **BADM 557** - Business Intelligence with AI (4 cr)
+4. **BADM 557** - Decision Intelligence with AI (4 cr)
 
 ### Advanced Courses (8 credits)
 - **BADM 558** - Big Data Infrastructure (4 cr)

@@ -119,7 +119,7 @@
 - **Project focus:** Finance-oriented (stock prediction, portfolio analysis, etc.)
 - **Timing:** Fall 2 (weeks 9-16 of academic year)
 
-**BADM 557 (Business Intelligence with AI)**
+**BADM 557 (Decision Intelligence with AI)**
 - Keep Subramanyam on-campus version as foundation
 - Add AI-augmented features (Claude for case analysis, model interpretation)
 - Tools: Python (scikit-learn), Tableau, HBS cases

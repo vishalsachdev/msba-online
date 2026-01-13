@@ -162,7 +162,7 @@ Research strongly supports oral components for online programs:
 ```
 Fall 1 (Wks 1-8):     BADM 554 (Data Foundations) + BDI 513 Part 1 (Storytelling)
 Fall 2 (Wks 9-16):    FIN 550 (Analytics) + BDI 513 Part 2
-Spring 1 (Wks 17-24): BADM 557 (BI with AI) + GenAI Elective
+Spring 1 (Wks 17-24): BADM 557 (Decision Intelligence with AI) + GenAI Elective
 Spring 2 (Wks 25-32): BADM 558 (Big Data Infrastructure)
 Summer (Wks 33-40):   BADM 576 (Data Science & ML)
 Fall 3 (Wks 41-48):   Elective (specialization)

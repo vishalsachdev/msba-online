@@ -222,7 +222,7 @@ See above; concludes storytelling narrative project with final presentations.
 
 ### **Spring 1** (12 credits) — Analytics & AI Specialization
 
-#### **BADM 557: Business Intelligence with AI (4 credits)**
+#### **BADM 557: Decision Intelligence with AI (4 credits)**
 *New name emphasizes AI, shortened from on-campus version*
 
 **Refined from Subramanyam on-campus version with AI-first approach**
@@ -395,7 +395,7 @@ Students choose **one primary pathway** while maintaining flexibility:
 - BADM 554 (Data Foundations)
 - BDI 513 (Data Storytelling)
 - FIN 550 (Financial Analytics)
-- **PLUS:** BADM 557 (BI with AI) + AI Elective (GenAI for Analytics)
+- **PLUS:** BADM 557 (Decision Intelligence with AI) + AI Elective (GenAI for Analytics)
 - **Value:** AI-focused skillset, most differentiated path
 - **Career Target:** AI product roles, analytics engineering, emerging tech focus
 

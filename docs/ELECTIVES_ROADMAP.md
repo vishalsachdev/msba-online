@@ -218,7 +218,7 @@ Students can tailor their elective selections to focus on specific industries. T
 - (One more from core + BADM 557 or 558 or 576)
 
 **Specialization Electives (12 credits, choose 3 of 4):**
-- **BADM 557:** Business Intelligence with AI (case studies with financial data)
+- **BADM 557:** Decision Intelligence with AI (case studies with financial data)
 - **BADM 576:** Data Science & ML (time series, prediction)
 - **Fintech Elective:** Blockchain analytics, algorithmic trading, robo-advisors (Option D rotation)
 - **Risk Analytics Elective:** VaR, stress testing, portfolio optimization (Option D rotation)
@@ -330,7 +330,7 @@ Students can tailor their elective selections to focus on specific industries. T
 ### Recommended Offering (Years 1-2)
 
 **Spring 1 2027 (Weeks 17-24):**
-- ✅ BADM 557: Business Intelligence with AI (4cr, required)
+- ✅ BADM 557: Decision Intelligence with AI (4cr, required)
 - ✅ Generative AI for Analytics (2cr, new elective)
 - ⚠️ Quantum Computing (2cr, optional/experimental)
 

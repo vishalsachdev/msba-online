@@ -29,7 +29,7 @@
 ### **Spring 1** (Weeks 17-24, 2027)
 | Course | Credit | Format | Status |
 |--------|--------|--------|--------|
-| **BADM 557** (BI with AI) | 4 | 8 weeks | Ready |
+| **BADM 557** (Decision Intelligence with AI) | 4 | 8 weeks | Ready |
 | **Generative AI for Analytics** | 2 | 8 weeks | ✅ Ready for design |
 | **Quantum Computing for Optimization** | 2 | 8 weeks | ⚠️ Curriculum TBD |
 | **Total This Term** | **8** | | |
@@ -164,7 +164,7 @@ All MSBAi courses will use Python + Jupyter Notebooks, though:
 
 ## Elective Courses: Ready for Design (Spring 1+)
 
-### **✅ BADM 557 - Business Intelligence with AI (4 credits)**
+### **✅ BADM 557 - Decision Intelligence with AI (4 credits)**
 - **On-campus reference:** Subramanyam version, case-based + Python
 - **Online redesign:** 8 weeks, case studies + Tableau/Python projects
 - **Environment:** Python (pandas, scikit-learn) + Tableau Public + HBS cases

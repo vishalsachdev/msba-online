@@ -28,7 +28,7 @@ MSBAi launch requires:
 | Data Storytelling (Part 1) | BDI 513 | 2 | [TBD] | Mar 1 | [ ] |
 | Data Storytelling (Part 2) | BDI 513 | 2 | [TBD] | Mar 1 | [ ] |
 | Analytics for Business | FIN 550 or MSBAi550 | 4 | [TBD] | Mar 1 | [ ] |
-| Business Intelligence with AI | BADM 557 or MSBAi557 | 4 | [TBD] | Mar 15 | [ ] |
+| Decision Intelligence with AI | BADM 557 or MSBAi557 | 4 | [TBD] | Mar 15 | [ ] |
 | Generative AI for Analytics | [New] | 2 | [TBD] | Apr 1 | [ ] |
 | Big Data Infrastructure | BADM 558 or MSBAi558 | 4 | [TBD] | Mar 15 | [ ] |
 | Data Science & Machine Learning | BADM 576 or MSBAi576 | 4 | [TBD] | Mar 15 | [ ] |

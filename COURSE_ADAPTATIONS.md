@@ -597,7 +597,7 @@ Students learn machine learning fundamentals applied to business problems. Unlik
 
 ---
 
-## Part 4: BADM 557 - Business Intelligence with AI
+## Part 4: BADM 557 - Decision Intelligence with AI
 
 **Credits:** 4 | **Term:** Spring 1 (Weeks 17-24) | **Status:** ✅ Ready for Spring 2027 launch
 

@@ -20,7 +20,6 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 | Document | Purpose | For Whom |
 |----------|---------|----------|
 | **[Curriculum Structure](ONLINE_CURRICULUM_STRUCTURE.md)** | 8-week program timeline, term breakdown, TBD courses | Everyone |
-| **[Course Adaptations](COURSE_ADAPTATIONS.md)** | Detailed 8-week syllabi (554, 513, 550, 557, 558, 576) | Faculty instructors, content developers |
 | **[Electives Roadmap](ELECTIVES_ROADMAP.md)** | New electives, specialization tracks, certificates | Faculty, program director |
 
 ---

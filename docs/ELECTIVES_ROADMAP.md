@@ -32,7 +32,7 @@ This document specifies the TBD elective courses and industry-specific specializ
 
 ### Elective 1: Generative AI for Analytics (BADM 5XX or MSBAi550A)
 
-**Credits:** 2 | **Term:** Spring 2027 (Weeks 1-8, concurrent with BADM 557) | **Status:** ✅ Ready for design
+**Credits:** 2 | **Term:** Spring 2027 (Weeks 1-4, concurrent with BADM 558) | **Status:** ✅ Ready for design
 
 #### Course Vision
 
@@ -60,18 +60,14 @@ Students master generative AI tools (Claude, ChatGPT, Copilot) applied to analyt
 
 | Week | Topic | Activities | Projects | Assessment |
 |------|-------|-----------|----------|------------|
-| **1** | LLM fundamentals + prompt engineering 101 | Lectures (2 videos), interactive prompts | Hands-on: Write prompts for 5 analytics tasks | Prompt evaluation |
-| **2** | AI for SQL + data exploration | Live demos of Claude/ChatGPT for SQL | Write 10+ SQL queries with AI assist | Code quality review |
-| **3** | AI for Python code generation + debugging | Live demos of code generation + fixing errors | Generate project code using AI | Code review + efficiency |
-| **4** | AI for feature engineering + ML workflows | Feature ideation with AI, prompt engineering | Feature engineering ideas + implementation | Feature analysis |
-| **5** | AI for data storytelling + communication | Writing narratives with AI, editing | Create analysis report with AI assist | Writing quality |
-| **6** | AI for statistics + model interpretation | Explaining statistical concepts with AI | Interpret model results using AI | Interpretation quality |
-| **7** | Ethics, bias, and responsible AI use | Case studies of AI failures, bias audits | Audit AI outputs for bias + risks | Bias analysis |
-| **8** | Capstone: Building AI-augmented systems | Design your own AI+human workflow | Create reusable prompt templates | Portfolio + presentation |
+| **1** | LLM fundamentals + prompt engineering + AI for SQL | Lectures, interactive prompts, SQL demos | Write prompts for analytics tasks + SQL queries | Prompt & code evaluation |
+| **2** | AI for Python code generation + feature engineering | Live demos of code generation, debugging, ML workflows | Generate project code + feature engineering | Code quality + efficiency |
+| **3** | AI for data storytelling + statistics + model interpretation | Writing narratives, explaining statistical concepts | Analysis report + model interpretation | Writing + interpretation quality |
+| **4** | Ethics, bias, responsible AI + Capstone project | Case studies, bias audits, design AI workflow | Create reusable prompt library + ethics checklist | Portfolio + presentation |
 
 #### Projects (2 major)
 
-**Project 1: AI Workflow Comparison (Weeks 1-4, Individual, 40% of grade)**
+**Project 1: AI Workflow Comparison (Weeks 1-2, Individual, 40% of grade)**
 - **Task:** Complete a complex analytics task (e.g., build a classifier) both manually and with AI assist
 - **Deliverables:**
   - Traditional approach: Code written from scratch, time logged
@@ -80,7 +76,7 @@ Students master generative AI tools (Claude, ChatGPT, Copilot) applied to analyt
   - Write-up: When to use AI, when manual work is better
   - GitHub repo with both approaches
 
-**Project 2: Capstone AI System (Weeks 5-8, Individual, 50% of grade)**
+**Project 2: Capstone AI System (Weeks 3-4, Individual, 50% of grade)**
 - **Task:** Design a reusable AI-augmented workflow for your domain
 - **Deliverables:**
   - Prompt library (10+ prompts for common tasks)
@@ -111,62 +107,153 @@ Students master generative AI tools (Claude, ChatGPT, Copilot) applied to analyt
 
 ### Elective 2: Quantum Computing for Optimization (BADM 5XX or MSBAi510Q)
 
-**Credits:** 2 | **Term:** Spring 2027 (Weeks 1-8, concurrent with BADM 557) | **Status:** ⚠️ Curriculum TBD
+**Credits:** 2 | **Term:** Spring 2027 (Weeks 9-12, Spring 2 half) | **Instructor:** Abhijeet | **Status:** ✅ Curriculum Ready
 
 #### Course Vision
 
-Students explore quantum computing fundamentals and applications to business optimization problems. Focus on practical understanding: when quantum helps, current limitations, and how to prepare for quantum era. NOT a deep math course—business-focused exploration.
+**"Quantum Computing: Applications for Decision Making"** prepares business analytics students to understand and apply quantum computing to optimization and decision problems. This course emphasizes practical skills using Python/Qiskit simulators, focusing on when and how quantum methods improve business decisions. Students will build foundational quantum computing literacy while developing hands-on skills to identify quantum opportunities in their domains.
+
+**Why This Course Matters:** Companies like Chase, Goldman Sachs, pharmaceutical firms, Shell, and Walmart are already assessing quantum integration. The biggest obstacle is the lack of business graduates who understand how to convert traditional decision problems into quantum-solvable problems. This course addresses that gap.
+
+#### Prerequisites
+
+**Required Knowledge (Pre-Course Self-Study):**
+- Basic linear algebra (vectors, matrices, eigenvalues, eigenvectors)
+- Trigonometry (sine, cosine, tangent, identities)
+- Complex numbers (x + iy, De-Moivre's theorem)
+- Python programming basics (Jupyter Notebooks)
+
+**Pre-Course Assessment:** Students take a diagnostic quiz to verify comfort level with prerequisites.
 
 #### Learning Outcomes (L-C-E Framework)
 
 **Literacy:**
-- L1: Explain quantum computing basics (qubits, superposition, entanglement) in plain language
-- L2: Understand when quantum computing might help vs. classical computing
-- L3: Recognize hype vs. realistic quantum applications
+- L1: Explain quantum computing fundamentals (qubits, superposition, entanglement, unitary matrices) in business contexts
+- L2: Understand quantum algorithms (Deutsch-Jozsa, Grover, Shor, QAOA, VQE) and their applications
+- L3: Distinguish quantum advantage vs. hype for real-world business problems
+- L4: Recognize when quantum computing can outperform classical methods
 
 **Competency:**
-- C1: Use quantum simulators to explore quantum algorithms
-- C2: Identify optimization problems that quantum might solve (portfolio optimization, supply chain, scheduling)
-- C3: Assess quantum readiness and limitations for your domain
+- C1: Program quantum algorithms using IBM Qiskit in Python/Jupyter
+- C2: Implement quantum optimization algorithms (QAOA, VQE) for business problems
+- C3: Run quantum simulations and interpret results
+- C4: Compare quantum vs. classical solution performance
+- C5: Use quantum circuit diagrams to design algorithms
 
 **Expertise:**
-- E1: Design a quantum-classical hybrid approach to a real business problem
-- E2: Evaluate quantum hardware progress and timeline to practical applications
+- E1: Identify business optimization problems suitable for quantum approaches
+- E2: Design quantum-classical hybrid solutions for real decision problems
+- E3: Evaluate quantum hardware readiness and timeline to production
+- E4: Build business cases for quantum computing investments
+- E5: Communicate quantum opportunities to non-technical stakeholders
 
-#### Week-by-Week Breakdown (Preliminary)
+#### Week-by-Week Breakdown
 
-| Week | Topic | Activities | Projects |
-|------|-------|-----------|----------|
-| **1** | Quantum fundamentals (non-technical) | Lectures + interactive simulators | Understand qubits + superposition |
-| **2** | Quantum algorithms overview | VQE, QAOA, Grover's explained simply | Implement simple algorithm |
-| **3** | Optimization problems + quantum advantage | When quantum helps (TSP, portfolio, scheduling) | Map your domain problems |
-| **4** | Portfolio optimization case study | Real-world example: optimize financial portfolio | Quantum vs. classical comparison |
-| **5** | Quantum simulators hands-on | Use IBM Qiskit or Azure Quantum | Run algorithms on simulator |
-| **6** | Quantum hardware + future roadmap | Current limitations, timeline to useful quantum | Assess readiness for production |
-| **7** | Hybrid quantum-classical approaches | Combining quantum + classical for practical gain | Design hybrid system |
-| **8** | Capstone: Your quantum opportunity | Identify real problem + propose quantum approach | Presentation + business case |
+| Week | Topic | Learning Activities | Hands-On Labs | Deliverables |
+|------|-------|---------------------|---------------|--------------|
+| **1** | **Quantum Foundations + Algorithms** | Qubits, superposition, entanglement, unitary matrices, eigenvalues; Postulates of QM; Quantum circuits; Deutsch, Deutsch-Jozsa, Grover, Shor algorithms | Lab 1: Qiskit setup, run first quantum program; Lab 2: Implement basic algorithms | Project Milestone 1: Problem identification + classical baseline |
+| **2** | **Optimization with Quantum** | Simple optimization problems; QAOA fundamentals; Max-cut problem; Applications in business domains | Lab 3: QAOA for Max-cut; Lab 4: Apply QAOA to business problem | Project Milestone 2: Quantum solution design + feasibility analysis |
+| **3** | **VQE + Advanced Applications** | Variational Quantum Eigensolver (VQE); Applications in finance, supply chain, scheduling; Quantum hardware landscape | Lab 5: VQE implementation; Lab 6: Run simulations + performance comparison | Project Milestone 3: Implementation + quantum vs. classical comparison |
+| **4** | **Quantum Readiness + Business Cases** | Quantum-classical hybrid systems; Timeline to production quantum; Building business cases; Industry adoption patterns | Lab 7: Hybrid approach design; Final Project: Business case presentation | Final Deliverable: Quantum Opportunity Portfolio |
 
-#### Projects (1-2)
+#### Textbooks & Resources
 
-**Project: Quantum Opportunity Analysis (Spring 2027, Weeks 1-8, Individual, 100%)**
-- **Task:** Identify a real business optimization problem + evaluate quantum computing potential
-- **Deliverables:**
-  - Problem definition + classical solution approach
-  - Quantum computing feasibility analysis
-  - Timeline to practical quantum solution (honest assessment)
-  - Business case (when quantum becomes cost-effective)
-  - GitHub repo with simulator exploration code
+**Required:**
+- *Quantum Information: A First Course* by Asma Al-Qasimi and Daniel F. V. James (Cambridge University Press)
 
-#### Status & Decisions Needed
+**Highly Recommended:**
+- *Quantum Computation and Quantum Information* by Michael A. Nielsen and Isaac L. Chuang
 
-**Critical Decisions Before Finalization:**
+**Other Recommended:**
+- *Quantum Mechanics* by David Griffiths (for deeper mathematical foundations)
 
-1. **Instructor:** Do we have faculty with quantum expertise? Or partner with quantum computing company/university?
-2. **Depth vs. Breadth:** Mathematical depth (Qiskit, circuit design) vs. business focus (when quantum helps)?
-3. **Platforms:** Use IBM Qiskit, Azure Quantum, D-Wave, or other?
-4. **Real Hardware:** Provide access to real quantum computers (IBM, AWS)?
+**Software:**
+- IBM Qiskit (Python package) - primary platform
+- Access to IBM Quantum simulators (guaranteed)
+- Limited access to IBM Quantum hardware (not guaranteed, but available for exploration)
 
-**Recommendation:** Start with **business-focused, simulator-based approach** in Year 1. As quantum hardware matures (2026-2028), evolve to real quantum experiments.
+#### Assessment & Projects
+
+**Project-Based Assessment (No Exams):**
+
+**Continuous Labs (40% of grade):**
+- 7 weekly hands-on labs using Qiskit
+- Each lab: Implement quantum algorithms, run simulations, document findings
+- Submit as Jupyter Notebooks with code + business interpretation
+- Graded on: correctness, code quality, business insight
+
+**Final Project: Quantum Opportunity Portfolio (60% of grade):**
+
+**Task:** Identify a business optimization problem from your domain (or assigned domain) and develop a quantum computing solution strategy.
+
+**Deliverables:**
+1. **Problem Definition (Week 1):**
+   - Business context + classical solution approach
+   - Complexity analysis + computational bottlenecks
+   - Why quantum might help
+
+2. **Quantum Solution Design (Week 2):**
+   - Quantum algorithm selection (QAOA, VQE, or hybrid)
+   - Circuit design + implementation plan
+   - Feasibility analysis
+
+3. **Implementation + Comparison (Week 3):**
+   - Qiskit implementation (simulator)
+   - Quantum vs. classical performance comparison
+   - Results visualization + interpretation
+   - GitHub repo with documented code
+
+4. **Business Case (Week 4):**
+   - When quantum becomes cost-effective (timeline)
+   - Hardware requirements + vendor options
+   - ROI analysis + risk assessment
+   - Executive summary (2-page memo)
+   - 10-minute video presentation
+
+**Rubric (5 dimensions):**
+
+| Dimension | Excellent (A) | Proficient (B) | Developing (C) |
+|-----------|---------------|----------------|----------------|
+| **Technical Accuracy** | Quantum implementation correct, well-documented | Implementation functional with minor issues | Significant technical errors |
+| **Business Insight** | Clear ROI, realistic timeline, actionable recommendations | Business case present but lacks depth | Weak business justification |
+| **Code Quality** | Clean, well-commented Qiskit code in Jupyter Notebooks | Functional code, adequate documentation | Code difficult to understand or run |
+| **Quantum vs. Classical Comparison** | Rigorous performance analysis with clear metrics | Basic comparison with some metrics | Incomplete or unfair comparison |
+| **Communication** | Executive summary is clear, concise, persuasive | Adequate but lacks clarity or structure | Poor communication of findings |
+
+#### Technology Stack
+
+- **Programming:** Python 3.9+ with Jupyter Notebooks
+- **Quantum Framework:** IBM Qiskit
+- **Simulators:** Qiskit Aer (local), IBM Quantum simulators (cloud)
+- **Hardware Access:** IBM Quantum (limited, not guaranteed)
+- **Version Control:** GitHub (for project submission)
+- **Visualization:** Matplotlib, Qiskit visualization tools
+
+#### Why This Course Matters for Your Career
+
+**Quantitative Foundation:**
+- Quantum computing heavily uses linear algebra, which carries over to ML, statistics, and optimization
+- Builds confidence in mathematical reasoning for business analytics
+
+**Rare Market Skills:**
+- Few business graduates understand quantum computing applications
+- Demand for quantum-literate business professionals is growing faster than supply
+- Companies are actively seeking talent who can bridge quantum computing and business strategy
+
+**Transferable Skills:**
+- Algorithm thinking (Qiskit) enhances Python/ML skills
+- Optimization mindset applies to classical problems too
+- Strategic thinking about emerging technologies
+
+#### Course Philosophy
+
+**Hands-On First:** Almost every week includes labs. You learn by doing, not just theory.
+
+**Business Context Always:** Every quantum concept is tied to business applications (portfolio optimization, supply chain, scheduling, etc.).
+
+**Realistic Expectations:** We balance quantum potential with honest assessment of current limitations and timelines.
+
+**Python/Jupyter Native:** Aligns with MSBAi's common computational thread across all courses.
 
 ---
 
@@ -330,19 +417,20 @@ Students can tailor their elective selections to focus on specific industries. T
 ### Recommended Offering (Years 1-2)
 
 **Spring 1 2027 (Spring 2027, Weeks 1-8):**
-- ✅ BADM 557: Decision Intelligence with AI (4cr, required)
-- ✅ Generative AI for Analytics (2cr, new elective)
-- ⚠️ Quantum Computing (2cr, optional/experimental)
+- ✅ BADM 558: Big Data Infrastructure (4cr, required, weeks 1-8)
+- ✅ Generative AI for Analytics (2cr, new elective, weeks 1-4)
 
 **Spring 2 2027 (Spring 2027, Weeks 9-16):**
-- ✅ BADM 558: Big Data Infrastructure (4cr, required)
+- ⚠️ Quantum Computing (2cr, optional/experimental, weeks 9-12)
 
 **Summer 2027 (Summer 2027, Weeks 1-8):**
+- ✅ BADM 557: Decision Intelligence with AI (4cr, required)
+
+**Fall 1 2027 (Fall 2027, Weeks 1-8):**
 - ✅ BADM 576: Data Science & ML (4cr, required)
 
-**Fall 3 2027 (Fall 2027, Weeks 1-8):**
-- **Option A (Recommended):** Data Engineering Specialization (4cr, new)
-- OR student choice of industry track elective (4cr)
+**Fall 2 2027 (Fall 2027, Weeks 9-16):**
+- **Specialization Elective** (4cr) — Finance, Healthcare, Marketing, or Data Engineering track
 
 **Spring 1 2028 (Cohort 2):**
 - Add 1-2 Option D (industry-specific) electives based on Cohort 1 demand + faculty availability
@@ -353,7 +441,7 @@ Students can tailor their elective selections to focus on specific industries. T
 
 ### Courses Ready for Development:
 1. ✅ **Generative AI for Analytics** — Design doc complete, can start immediately
-2. ⚠️ **Quantum Computing** — Needs curriculum decision + instructor identification
+2. ✅ **Quantum Computing** — Curriculum complete (Abhijeet), ready for course material development
 3. ⏳ **Data Engineering Specialization** — Needs faculty assignment + curriculum design
 4. ⏳ **Industry-Specific Electives** — Will develop based on pilot cohort feedback
 
@@ -364,7 +452,7 @@ Students can tailor their elective selections to focus on specific industries. T
 
 ### Faculty Skill Requirements:
 - **Generative AI for Analytics:** Any data/tech faculty + AI tool experience (can be learned alongside course development)
-- **Quantum Computing:** Ideally physics/quantum expert OR partner with external provider
+- **Quantum Computing:** ✅ Abhijeet confirmed — quantum computing + business optimization expertise
 - **Data Engineering:** Senior software engineer or data engineer with production experience
 - **Industry Electives:** Subject-matter experts in respective domains (Finance, Healthcare, Marketing, etc.)
 
@@ -372,10 +460,10 @@ Students can tailor their elective selections to focus on specific industries. T
 
 ## Implementation Timeline
 
-**Phase 1 (Jan-Mar 2026):** Finalize Generative AI curriculum + assign instructor
-**Phase 2 (Mar-May 2026):** Develop Generative AI course materials (Jupyter Books, videos, projects)
-**Phase 3 (Apr-Jun 2026):** Decide on Quantum Computing approach + recruit instructor (if pursuing)
-**Phase 4 (May-Jul 2026):** Design Data Engineering specialization + map industry tracks
+**Phase 1 (Jan-Mar 2026):** Finalize Generative AI curriculum + Quantum Computing curriculum (✅ Complete)
+**Phase 2 (Mar-May 2026):** Develop course materials for both electives (Jupyter Books, videos, labs, projects)
+**Phase 3 (May-Jul 2026):** Design Data Engineering specialization + map industry tracks
+**Phase 4 (Jul-Aug 2026):** Pilot test Quantum Computing labs + Qiskit environment setup
 **Phase 5 (Aug 2026+):** Teach Cohort 1, gather feedback, iterate on electives for Cohort 2
 
 ---

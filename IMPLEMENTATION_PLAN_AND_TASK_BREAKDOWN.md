@@ -226,7 +226,7 @@ MSBAi launch requires:
 **Deliverables by Apr 1:**
 - [ ] Program overview (1-page summary + full description)
 - [ ] Target personas (career pivoters, promotion seekers, executives)
-- [ ] Marketing tagline: **"The AI-Assured MSBA"** or **"AI-First, Affordable, Flexible"**
+- [ ] Marketing tagline: **"The AI-First MSBA"** or **"AI-First, Affordable, Flexible"**
 - [ ] Key differentiators (vs. competitors):
   - Every student graduates AI-ready (not optional)
   - Project-focused learning with live studio sessions
@@ -268,7 +268,7 @@ MSBAi launch requires:
 
 - [ ] Application process (simplified, 15 min online form)
 - [ ] Prerequisites (none required; encourage any working professional)
-- [ ] Start date cohorts (Fall 1 = Aug 25, 2026)
+- [ ] Start date cohorts (Fall 2026 start)
 - [ ] Enrollment confirmation + onboarding
 
 ---
@@ -333,7 +333,7 @@ Based on pilot feedback:
 
 ---
 
-### 5.2 Fall 1 Launch (Aug 25, 2026)
+### 5.2 Fall 1 Launch (Fall 2026)
 
 **Courses:**
 - BADM 554: Data Foundations (Weeks 1-8)
@@ -352,14 +352,14 @@ Based on pilot feedback:
 
 ---
 
-### 5.3 Fall 2 Launch (Oct 1, 2026)
+### 5.3 Fall 2 Launch (Fall 2026, Second Half)
 
 **Courses:**
 - FIN 550: Analytics for Business (Weeks 9-16)
 - BDI 513 Part 2: Data Storytelling (Weeks 9-16)
 
 **Timeline:**
-- Aug 25 - Oct 1: Running Fall 1 + preparing Fall 2
+- Weeks 1-8: Running Fall 1 + preparing Fall 2
 - Oct 1 onwards: Fall 1 ends, Fall 2 begins
 
 ---

@@ -12,7 +12,7 @@
 
 ### **YEAR 1**
 
-#### **Fall 2026 Semester** (16 weeks: Aug 25 - Dec 12, 2026)
+#### **Fall 2026 Semester** (16 weeks)
 
 **Semester Structure:**
 - Fall 1 (First Half): Weeks 1-8
@@ -20,9 +20,9 @@
 
 | Course | Credits | Weeks | Instructor | Notes |
 |--------|---------|-------|------------|-------|
-| **BADM 554 - Data Foundations** | 4 | Weeks 1-8 | TBD | SQL, Python, databases, ETL pipelines |
-| **BDI 513 - Data Storytelling** | 4 | Weeks 5-12 | TBD | **Straddles both halves** - visualization, narrative, financial analysis |
-| **FIN 550 - Analytics for Business** | 4 | Weeks 9-16 | TBD | Python, ML fundamentals, business applications |
+| **BADM 554 - Data Foundations** | 4 | Weeks 1-8 | Vishal | SQL, Python, databases, ETL pipelines |
+| **BDI 513 - Data Storytelling** | 4 | Weeks 5-12 | Ron | **Straddles both halves** - visualization, narrative, financial analysis |
+| **FIN 550 - Analytics for Business** | 4 | Weeks 9-16 | Xing | Python, ML fundamentals, business applications |
 | **Semester Total** | **12** | | | |
 
 **Student Experience:**
@@ -33,7 +33,7 @@
 
 ---
 
-#### **Spring 2027 Semester** (16 weeks: Jan - May 2027)
+#### **Spring 2027 Semester** (16 weeks)
 
 **Semester Structure:**
 - Spring 1 (First Half): Weeks 1-8
@@ -42,17 +42,19 @@
 | Course | Credits | Weeks | Instructor | Notes |
 |--------|---------|-------|------------|-------|
 | **BADM 558 - Big Data Infrastructure** | 4 | Weeks 1-8 | Ashish | AWS, cloud computing, data engineering with Python |
-| **Generative AI for Analytics** | 2 | Weeks 1-8 | TBD | Concurrent with 558 - prompt engineering, AI workflows |
-| **Quantum Computing for Optimization** | 2 | Weeks 9-16 | TBD | Business-focused quantum fundamentals, simulators |
+| **Generative AI for Analytics** | 2 | Weeks 1-4 | TBD | Concurrent with 558 - prompt engineering, AI workflows |
+| **Quantum Computing for Optimization** | 2 | Weeks 9-12 | Abhijeet | Business-focused quantum fundamentals, simulators |
 | **Semester Total** | **8** | | | |
 
 **Student Experience:**
-- Weeks 1-8: BADM 558 (4 cr) + GenAI (2 cr) = 6 credits simultaneously
-- Weeks 9-16: Quantum Computing (2 cr) only - lighter load
+- Weeks 1-4: BADM 558 (4 cr) + GenAI (2 cr) = 6 credits simultaneously
+- Weeks 5-8: BADM 558 (4 cr) only
+- Weeks 9-12: Quantum Computing (2 cr) only - lighter load
+- Weeks 13-16: Open (no courses)
 
 ---
 
-#### **Summer 2027** (8 weeks: June - July 2027)
+#### **Summer 2027** (8 weeks)
 
 | Course | Credits | Weeks | Instructor | Notes |
 |--------|---------|-------|------------|-------|
@@ -65,7 +67,7 @@
 
 ### **YEAR 2**
 
-#### **Fall 2027 Semester** (16 weeks: Aug - Dec 2027)
+#### **Fall 2027 Semester** (16 weeks)
 
 **Semester Structure:**
 - Fall 1 (First Half): Weeks 1-8
@@ -81,11 +83,11 @@
 
 ---
 
-#### **Spring 2028 Semester** (First 8 weeks only: Jan - Feb 2028)
+#### **Spring 2028 Semester** (First 8 weeks only)
 
 | Course | Credits | Weeks | Instructor | Notes |
 |--------|---------|-------|------------|-------|
-| **Capstone/Practicum** | 4 | Weeks 1-8 | TBD | Portfolio + client project OR independent research |
+| **Capstone/Practicum** | 4 | Weeks 1-8 | TBD | Portfolio + client project |
 | **Semester Total** | **4** | | | |
 
 **Program Total: 36 credits**
@@ -118,10 +120,16 @@
 
 | Course | Instructor | Semester | Notes |
 |--------|------------|----------|-------|
+| **BADM 554 - Data Foundations** | Vishal | Fall 2026 | SQL, Python, databases |
+| **BDI 513 - Data Storytelling** | Ron | Fall 2026 | Visualization, narrative |
+| **FIN 550 - Analytics for Business** | Xing | Fall 2026 | ML fundamentals |
 | **BADM 558 - Big Data Infrastructure** | Ashish | Spring 2027 | AWS, cloud computing, data engineering |
+| **Quantum Computing for Optimization** | Abhijeet | Spring 2027 | Business-focused quantum fundamentals |
 | **BADM 557 - Decision Intelligence with AI** | Gautam | Summer 2027 | Case-based, BI focus |
 | **BADM 576 - Data Science & Machine Learning** | Zilong | Fall 2027 | Comprehensive ML coverage |
-| All other courses | TBD | Various | Assign by May 2026 |
+| **Generative AI for Analytics** | TBD | Spring 2027 | Prompt engineering, AI workflows |
+| **Specialization Elective** | TBD | Fall 2027 | Industry track |
+| **Capstone/Practicum** | TBD | Spring 2028 | Portfolio + client project |
 
 ---
 

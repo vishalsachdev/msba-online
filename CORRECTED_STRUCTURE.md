@@ -12,7 +12,7 @@
 
 ### **YEAR 1**
 
-#### **Fall 2026 Semester** (16 weeks: Aug 25 - Dec 12, 2026)
+#### **Fall 2026 Semester** (16 weeks)
 
 **Semester Structure:**
 - Fall 1 (First Half): Weeks 1-8
@@ -29,7 +29,7 @@
 
 ---
 
-#### **Spring 2027 Semester** (16 weeks: Jan - May 2027)
+#### **Spring 2027 Semester** (16 weeks)
 
 **Semester Structure:**
 - Spring 1 (First Half): Weeks 1-8
@@ -37,39 +37,54 @@
 
 | Course | Credits | Weeks | Notes |
 |--------|---------|-------|-------|
-| **BADM 557 - Decision Intelligence with AI** | 4 | Weeks 1-8 | Runs in Spring 1 half only |
-| **Generative AI for Analytics** | 2 | Weeks 1-8 | Runs in Spring 1 half (concurrent with 557) |
-| **BADM 558 - Big Data Infrastructure** | 4 | Weeks 9-16 | Runs in Spring 2 half only |
-| **Semester Total** | **10** | | |
+| **BADM 558 - Big Data Infrastructure** | 4 | Weeks 1-8 | Runs in Spring 1 half only |
+| **Generative AI for Analytics** | 2 | Weeks 1-4 | Runs in Spring 1 (first 4 weeks, concurrent with 558) |
+| **Quantum Computing for Optimization** | 2 | Weeks 9-12 | Runs in Spring 2 (first 4 weeks) |
+| **Semester Total** | **8** | | |
 
-**Note:** Quantum Computing (2 cr) elective optional if offered; would run weeks 1-8 concurrent with BADM 557
+**Student Experience:**
+- Weeks 1-4: BADM 558 (4 cr) + GenAI (2 cr) = 6 credits simultaneously
+- Weeks 5-8: BADM 558 (4 cr) only
+- Weeks 9-12: Quantum Computing (2 cr) only
+- Weeks 13-16: Open (no courses)
 
 ---
 
-#### **Summer 2027** (8 weeks: June - July 2027)
+#### **Summer 2027** (8 weeks)
 
 | Course | Credits | Weeks | Notes |
 |--------|---------|-------|-------|
-| **BADM 576 - Data Science & Machine Learning** | 4 | Weeks 1-8 | Full 8-week course |
+| **BADM 557 - Decision Intelligence with AI** | 4 | Weeks 1-8 | Full 8-week course |
 | **Summer Total** | **4** | | 1 course only |
 
-**Cumulative after Year 1: 26 credits**
+**Cumulative after Summer 2027: 24 credits**
 
 ---
 
 ### **YEAR 2**
 
-#### **Fall 2027 Semester** (16 weeks: Aug - Dec 2027)
+#### **Fall 2027 Semester** (16 weeks)
 
 **Semester Structure:**
-- Fall 3 (First Half): Weeks 1-8
-- Fall 4 (Second Half): Weeks 9-16
+- Fall 1 (First Half): Weeks 1-8
+- Fall 2 (Second Half): Weeks 9-16
 
 | Course | Credits | Weeks | Notes |
 |--------|---------|-------|-------|
-| **Flexible Specialization Elective** | 4 | Weeks 1-8 | Finance, Healthcare, Marketing, or Data Engineering track |
-| **Capstone/Practicum** | 4 | Weeks 9-16 | Portfolio + client project |
+| **BADM 576 - Data Science & Machine Learning** | 4 | Weeks 1-8 | Runs in Fall 1 half only |
+| **Specialization Elective** | 4 | Weeks 9-16 | Finance, Healthcare, Marketing, or Data Engineering track |
 | **Semester Total** | **8** | | |
+
+**Cumulative after Fall 2027: 32 credits**
+
+---
+
+#### **Spring 2028 Semester** (First 8 weeks only)
+
+| Course | Credits | Weeks | Notes |
+|--------|---------|-------|-------|
+| **Capstone/Practicum** | 4 | Weeks 1-8 | Portfolio + client project |
+| **Semester Total** | **4** | | |
 
 **Program Total: 36 credits**
 

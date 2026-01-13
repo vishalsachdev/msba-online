@@ -592,26 +592,28 @@ Three rotating time slots for Project Studio (repeat weekly):
 
 ## Appendix: Sample Cohort Timeline (Cohort 1, Fall 2026)
 
-| Date | Event |
-|------|-------|
-| **Aug 1-24** | Onboarding, pre-work, buddy assignments |
-| **Aug 25-Sep 1** | **Onboarding Week (Week 0)** |
-| **Sep 1-30** | **Fall 1 Courses (BADM 554, BDI 513 Part 1)** — Weeks 1-4 |
-| **Oct 1-31** | **Fall 2 Courses Launch** (FIN 550, BDI 513 Part 2) + Fall 1 ends |
-| **Oct 15** | Mid-point check-in + feedback survey |
-| **Dec 10** | Fall 2 courses end, Winter break |
-| **Jan 3** | **Spring 1 Courses (BADM 557, Electives)** start |
-| **Mar 1** | Spring 1 ends |
-| **Mar 15** | **Spring 2 Courses (BADM 558)** start |
-| **May 1** | Spring 2 ends, Summer prep |
-| **Jun 1** | **Summer Courses (BADM 576)** start |
-| **Jul 31** | Summer courses end |
-| **Aug 15** | **Fall 3 Courses (Electives)** start |
-| **Oct 10** | Fall 3 ends, capstone prep |
-| **Oct 24** | **Fall 4 Capstone** starts |
-| **Dec 15** | **Capstone presentations** (live showcase) |
-| **Dec 20** | **Virtual graduation ceremony** |
-| **Jan 2028** | **Alumni network activation** |
+| Timeframe | Event |
+|------------|-------|
+| **3-4 weeks before start** | Onboarding, pre-work, buddy assignments |
+| **Week 0** | **Onboarding Week** |
+| **Weeks 1-4** | **Fall 1 Courses (BADM 554, BDI 513 Part 1)** |
+| **Weeks 5-8** | **Fall 2 Courses Launch** (FIN 550, BDI 513 Part 2) + Fall 1 ends |
+| **Mid-semester** | Mid-point check-in + feedback survey |
+| **End of Fall semester** | Fall 2 courses end, Winter break |
+| **Start of Spring** | **Spring 1 Courses (BADM 558, GenAI)** start |
+| **Mid-Spring** | Spring 1 ends |
+| **Weeks 9-12 (Spring)** | **Spring 2 (Quantum Computing)** start |
+| **End of Spring** | Spring 2 ends, Summer prep |
+| **Start of Summer** | **Summer Courses (BADM 557)** start |
+| **End of Summer** | Summer courses end |
+| **Start of Fall (Year 2)** | **Fall Courses (BADM 576, Specialization)** start |
+| **Mid-Fall (Year 2)** | Fall 1 ends, capstone prep |
+| **Weeks 9-16 (Fall Year 2)** | **Specialization Elective** continues |
+| **End of Fall** | Fall semester ends |
+| **Spring (Year 2), Weeks 1-8** | **Capstone/Practicum** |
+| **End of Capstone** | **Capstone presentations** (live showcase) |
+| **Graduation** | **Virtual graduation ceremony** |
+| **Post-graduation** | **Alumni network activation** |
 
 ---
 

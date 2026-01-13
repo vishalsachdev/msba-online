@@ -226,7 +226,7 @@ MSBAi launch requires:
 **Deliverables by Apr 1:**
 - [ ] Program overview (1-page summary + full description)
 - [ ] Target personas (career pivoters, promotion seekers, executives)
-- [ ] Marketing tagline: **"The AI-Assured MSBA"** or **"AI-First, Affordable, Flexible"**
+- [ ] Marketing tagline: **"The AI-First MSBA"** or **"AI-First, Affordable, Flexible"**
 - [ ] Key differentiators (vs. competitors):
   - Every student graduates AI-ready (not optional)
   - Project-focused learning with live studio sessions

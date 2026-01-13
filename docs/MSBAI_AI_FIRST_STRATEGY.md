@@ -1,7 +1,7 @@
 # MSBAi: AI-First Strategy Document
 
 **Launch:** Fall 2026 (Fall 1 term)  
-**Strategic Positioning:** "Analytics-to-Action with AI-Assured Outcomes"  
+**Strategic Positioning:** "Analytics-to-Action with AI"  
 **Key Differentiation:** AI-native curriculum + applied experiential learning + flexible pathways  
 **Informed By:** Undergrad AI integration strategy + IBC market research + MSBA course portfolio
 
@@ -497,7 +497,7 @@ Students choose **one primary pathway** while maintaining flexibility:
 
 ### **Phase 2: Recruitment & Launch** (May-Aug 2026)
 
-**Marketing Messaging:** "The AI-Assured MSBA — Built for the future, affordable for now"
+**Marketing Messaging:** "The AI-First MSBA — Built for the future, affordable for now"
 
 **Differentiation Claims:**
 - ✅ Every student graduates AI-ready (not optional)
@@ -539,7 +539,7 @@ Students choose **one primary pathway** while maintaining flexibility:
 - **Retention:** >85% of students who start complete (vs. industry avg 70%)
 
 ### **Market Differentiation**
-- **AI Skill Coverage:** Unique "AI-Assured" messaging (no competitor uses this)
+- **AI Skill Coverage:** Unique "AI-First" messaging (no competitor uses this)
 - **Affordability:** Bottom quartile pricing vs. comparable programs
 - **Flexibility:** Only program with modular 8-week + stackable pathway model
 - **Applied Learning:** 100% of graduates complete real or simulated capstone

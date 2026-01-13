@@ -75,7 +75,7 @@ Research suggests:
 | **UT Austin MSBA** | Moderate (ML electives) | Affordability | MSBAi targets 20% cheaper |
 | **Georgia Tech OMS Analytics** | Low-Moderate | Scale + affordability | MSBAi differentiates with AI-first + studio sessions |
 
-**Key Differentiator:** No competitor explicitly positions as "AI-Assured" or requires AI integration in every course. This is MSBAi's unique market position.
+**Key Differentiator:** No competitor explicitly positions as "AI-First" or requires AI integration in every course. This is MSBAi's unique market position.
 
 ---
 
@@ -353,7 +353,7 @@ Each course includes 1 case study or reflection on ethical dimensions (Week 7 or
 
 ### Recommendations for Enhanced Competitiveness
 
-1. **"AI-Assured" Branding:** Emphasize every graduate has documented AI competencies
+1. **"AI-First" Branding:** Emphasize every graduate has documented AI competencies
 2. **Process Portfolio:** Graduates show not just projects but learning journey
 3. **Industry Certification Alignment:** Map courses to AWS, Tableau, DataCamp certifications
 4. **Employer Advisory Board:** Regular input on curriculum relevance

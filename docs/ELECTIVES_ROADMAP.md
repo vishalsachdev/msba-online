@@ -90,6 +90,7 @@ Students master generative AI tools (Claude, ChatGPT, Copilot) applied to analyt
   - GitHub repo with prompt templates + examples
 
 #### Rubric (5 dimensions)
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Prompt Quality** | Well-crafted, effective, reusable | Functional, some refinement needed | Generic or ineffective |
@@ -211,7 +212,7 @@ Students can tailor their elective selections to focus on specific industries. T
 **Goal:** Prepare students for roles in investment management, trading, risk management, financial institutions.
 
 **Core Courses (12 credits, required):**
-- BADM 554: Data Systems & Engineering
+- BADM 554: Data Foundations
 - BDI 513: Data Storytelling
 - FIN 550: Analytics for Business
 - (One more from core + BADM 557 or 558 or 576)
@@ -231,7 +232,7 @@ Students can tailor their elective selections to focus on specific industries. T
 **Goal:** Prepare students for roles in healthcare systems, biotech, pharmaceuticals, health tech.
 
 **Core Courses (12 credits):**
-- BADM 554: Data Systems & Engineering
+- BADM 554: Data Foundations
 - BDI 513: Data Storytelling
 - FIN 550: Analytics for Business (with healthcare datasets)
 - One more core
@@ -251,7 +252,7 @@ Students can tailor their elective selections to focus on specific industries. T
 **Goal:** Prepare students for roles in tech companies, marketing analytics, product management, consumer insights.
 
 **Core Courses (12 credits):**
-- BADM 554: Data Systems & Engineering
+- BADM 554: Data Foundations
 - BDI 513: Data Storytelling
 - FIN 550: Analytics for Business
 - One more core
@@ -275,7 +276,7 @@ Students can tailor their elective selections to focus on specific industries. T
 **For:** Professionals seeking foundational analytics skills + immediate employment
 
 **Courses:**
-- BADM 554: Data Systems & Engineering (4cr)
+- BADM 554: Data Foundations (4cr)
 - BDI 513: Data Storytelling (4cr)
 - FIN 550: Analytics for Business (4cr)
 

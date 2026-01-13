@@ -89,6 +89,7 @@ This document defines how MSBAi creates community, engagement, and support for o
 - Discord (chat during studio for quick questions)
 
 **Example Schedule:**
+
 | Time | Course | Instructor |
 |------|--------|-----------|
 | Tue 10:00-11:30 UTC | BADM 554 + BDI 513 | Prof. [Name] |
@@ -133,6 +134,7 @@ This document defines how MSBAi creates community, engagement, and support for o
 - Recorded for async access (live Q&A only)
 
 **Sample Analytics Conversations (Year 1):**
+
 | Date | Topic | Speaker |
 |------|-------|---------|
 | Sep 2026 | Real ML project in finance | JPMorgan quant |

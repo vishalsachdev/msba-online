@@ -24,7 +24,7 @@ MSBAi launch requires:
 
 | Course | Rubric | Credits | Lead Faculty | Deadline | Status |
 |--------|--------|---------|--------------|----------|--------|
-| Data Systems & Engineering | BADM 554 or MSBAi554 | 4 | [TBD] | Mar 1 | [ ] |
+| Data Foundations | BADM 554 or MSBAi554 | 4 | [TBD] | Mar 1 | [ ] |
 | Data Storytelling (Part 1) | BDI 513 | 2 | [TBD] | Mar 1 | [ ] |
 | Data Storytelling (Part 2) | BDI 513 | 2 | [TBD] | Mar 1 | [ ] |
 | Analytics for Business | FIN 550 or MSBAi550 | 4 | [TBD] | Mar 1 | [ ] |
@@ -336,7 +336,7 @@ Based on pilot feedback:
 ### 5.2 Fall 1 Launch (Aug 25, 2026)
 
 **Courses:**
-- BADM 554: Data Systems & Engineering (Weeks 1-8)
+- BADM 554: Data Foundations (Weeks 1-8)
 - BDI 513 Part 1: Data Storytelling (Weeks 1-8)
 
 **Weekly Schedule:**

@@ -77,6 +77,7 @@
 **Curriculum Draft:** "BADM 558- Big Data Infrastructures" (4 credits)
 
 **Actual Syllabus:**
+
 | Attribute | Value |
 |-----------|-------|
 | Credits | 3 |
@@ -118,6 +119,7 @@
 **Curriculum Draft:** "BADM 576- Data Science & Analytics" (4 credits)
 
 **Actual Syllabus:**
+
 | Attribute | Value |
 |-----------|-------|
 | Credits | 3 |

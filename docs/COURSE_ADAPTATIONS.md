@@ -22,7 +22,7 @@ This document provides detailed, week-by-week syllabus specifications for all MS
 
 ---
 
-## Part 1: BADM 554 - Data Systems & Engineering
+## Part 1: BADM 554 - Data Foundations
 
 **Credits:** 4 | **Term:** Fall 1 (Weeks 1-8) | **Status:** ✅ Ready for Fall 2026 launch
 
@@ -75,6 +75,7 @@ Students master SQL, relational data modeling, and Python data wrangling to beco
 - GitHub repo with schema documentation
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Schema Design** | 3NF normalized, handles all requirements | Mostly 3NF with 1-2 denormalization choices | Normalization issues present |
@@ -101,6 +102,7 @@ Students master SQL, relational data modeling, and Python data wrangling to beco
 - GitHub repo with all code + test datasets
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Code Quality** | Modular, documented, type hints | Good structure, minimal comments | Spaghetti code |
@@ -122,6 +124,7 @@ Students master SQL, relational data modeling, and Python data wrangling to beco
 - GitHub repo with all code + AWS setup guide
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **AWS Implementation** | RDS properly configured, secure, monitored | RDS works, basic configuration | Connection/setup issues |
@@ -262,6 +265,7 @@ Students master data visualization and narrative storytelling to communicate ins
 - Jupyter notebook with data loaded + analysis
 
 **Rubric:**
+
 | Dimension | Excellent | Proficient | Developing |
 |-----------|-----------|-----------|-----------|
 | **Critique** | Insightful analysis with specific examples | Identifies strengths + weaknesses | Superficial critique |
@@ -296,6 +300,7 @@ Students master data visualization and narrative storytelling to communicate ins
 - **Week 16:** Final GitHub repo with all code, data, dashboards, presentation deck
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Data Exploration** | Systematic, creative questions, insights | Explores key areas, some surface | Shallow exploration |
@@ -321,6 +326,7 @@ Students master data visualization and narrative storytelling to communicate ins
 - GitHub repo with final analysis code + narrative
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Dashboard Design** | Professional, intuitive, story-focused | Functional, mostly clear | Cluttered or confusing |
@@ -466,6 +472,7 @@ Students learn machine learning fundamentals applied to business problems. Unlik
 - GitHub repo with all code
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Problem Understanding** | Clear definition, appropriate metric chosen | Understands core problem | Vague problem statement |
@@ -489,6 +496,7 @@ Students learn machine learning fundamentals applied to business problems. Unlik
 - GitHub repo with final code + model artifacts
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Feature Engineering** | Creative features with domain insight | Standard feature creation | Minimal feature work |
@@ -516,6 +524,7 @@ Students learn machine learning fundamentals applied to business problems. Unlik
 - GitHub repo with all code + deployment instructions
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Deployment** | Model properly containerized + accessible | Runs on cloud platform | Local only or fragile |
@@ -649,6 +658,7 @@ Students master business intelligence—combining data analysis, visualization, 
 - GitHub repo with analysis code
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Case Understanding** | Deep understanding of context + constraints | Good understanding | Surface-level reading |
@@ -683,6 +693,7 @@ Students master business intelligence—combining data analysis, visualization, 
 - GitHub repo with code + data
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Dashboard Design** | Professional, intuitive, actionable insights | Clear layout, good coverage | Cluttered or confusing |
@@ -709,6 +720,7 @@ Students master business intelligence—combining data analysis, visualization, 
 - GitHub repo with all code + dashboards
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Dashboard** | Executive-ready, clear story, interactive | Functional, mostly clear | Needs polish |
@@ -834,6 +846,7 @@ Students master cloud-based big data infrastructure. Using AWS services, student
 - GitHub repo with infrastructure code (CloudFormation or Terraform templates, if desired)
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **S3 Organization** | Well-structured with clear partitioning | Organized, some redundancy | Messy or hard to navigate |
@@ -864,6 +877,7 @@ Students master cloud-based big data infrastructure. Using AWS services, student
 - GitHub repo with PySpark code + data schema
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Spark Code** | Efficient transformations, proper caching | Functional code | Inefficient or problematic |
@@ -894,6 +908,7 @@ Students master cloud-based big data infrastructure. Using AWS services, student
 - Live demo of pipeline in action (or scheduled run with logs)
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Pipeline Architecture** | Well-designed, scalable, modular | Functional, some inefficiency | Basic or problematic design |
@@ -1028,6 +1043,7 @@ Students master the full machine learning lifecycle—from problem definition th
 - GitHub repo with all code
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Feature Engineering** | Creative features with domain insight | Standard feature creation | Minimal feature engineering |
@@ -1063,6 +1079,7 @@ Students master the full machine learning lifecycle—from problem definition th
 - GitHub repo with code + model artifacts
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Model Diversity** | 4-5 diverse algorithms, justified | 3+ models | 2 or fewer |
@@ -1110,6 +1127,7 @@ Students master the full machine learning lifecycle—from problem definition th
   - Documentation
 
 **Rubric (5 dimensions):**
+
 | Dimension | Excellent (A) | Proficient (B) | Developing (C) |
 |-----------|---------------|----------------|----------------|
 | **Deployment** | Production-ready, containerized, accessible | Works on cloud | Local only |

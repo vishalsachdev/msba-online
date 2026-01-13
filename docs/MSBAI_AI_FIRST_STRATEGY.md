@@ -101,7 +101,7 @@ All MSBAi learning outcomes follow the **Literacy-Competency-Expertise** progres
 
 ### **Fall 1** — Foundation & Data Thinking (12 credits)
 
-#### **BADM 554: Data Systems & Engineering (4 credits)**
+#### **BADM 554: Data Foundations (4 credits)**
 *Formerly: Enterprise Database Management*
 
 **Rationale:** Renamed to emphasize data engineering focus + Python-first approach
@@ -385,14 +385,14 @@ See above; concludes storytelling narrative project with final presentations.
 Students choose **one primary pathway** while maintaining flexibility:
 
 #### **Pathway 1: Core Analytics Certificate** (Can complete in 12 months)
-- BADM 554 (Data Systems)
+- BADM 554 (Data Foundations)
 - BDI 513 (Data Storytelling)
 - FIN 550 (Financial Analytics)
 - **Value:** Foundation in analytics + finance focus
 - **Career Target:** Financial analyst, data analyst roles
 
 #### **Pathway 2: AI Analytics Certificate** (Start Spring 1, complete Fall 3)
-- BADM 554 (Data Systems)
+- BADM 554 (Data Foundations)
 - BDI 513 (Data Storytelling)
 - FIN 550 (Financial Analytics)
 - **PLUS:** BADM 557 (BI with AI) + AI Elective (GenAI for Analytics)
@@ -518,7 +518,7 @@ Students choose **one primary pathway** while maintaining flexibility:
 **Admit cohort:** 50-75 students (conservative first cohort)
 
 **Courses running:**
-- BADM 554 (Data Systems) — Weeks 1-8
+- BADM 554 (Data Foundations) — Weeks 1-8
 - BDI 513 Part 1 (Data Storytelling) — Weeks 1-8
 - Support infrastructure in place (office hours, peer study groups, career services)
 

@@ -22,7 +22,6 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 | **[Curriculum Structure](ONLINE_CURRICULUM_STRUCTURE.md)** | 8-week program timeline, term breakdown, TBD courses | Everyone |
 | **[Course Adaptations](COURSE_ADAPTATIONS.md)** | Detailed 8-week syllabi (554, 513, 550, 557, 558, 576) | Faculty instructors, content developers |
 | **[Electives Roadmap](ELECTIVES_ROADMAP.md)** | New electives, specialization tracks, certificates | Faculty, program director |
-| **[Cohort Model](COHORT_MODEL.md)** | Student experience, studio sessions, community | Faculty, student services, program manager |
 
 ---
 
@@ -36,7 +35,7 @@ Welcome to the MSBAi curriculum design documentation. This site contains compreh
 - **Start:** Fall 2026
 
 ### Core Courses (16 credits)
-1. **BADM 554** - Data Systems & Engineering (4 cr)
+1. **BADM 554** - Data Foundations (4 cr)
 2. **BDI 513** - Data Storytelling (4 cr, split 2+2)
 3. **FIN 550** - Analytics for Business (4 cr)
 4. **BADM 557** - Business Intelligence with AI (4 cr)

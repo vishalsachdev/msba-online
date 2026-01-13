@@ -70,7 +70,7 @@
 ### 8. **Coherent Course Naming & Rubrics**
 - **Naming convention:** Use "MSBAi" prefix or thematic titles
   - Option A: MSBAi554, MSBAi513, etc. (emphasizes program cohesion)
-  - Option B: Thematic names (Data Systems, Data Storytelling, Analytics for Business, etc.)
+  - Option B: Thematic names (Data Foundations, Data Storytelling, Analytics for Business, etc.)
 - **Consistent learning outcome structure:** All courses use L-C-E (Literacy → Competency → Expertise)
 - **Clear prerequisites:** First core (554, 513, 550) have no prerequisites; electives assume core completion
 
@@ -101,7 +101,7 @@
 6. **Project-based assessment:** No traditional final exams; all courses graded on projects + participation
 
 ### Course-Specific Constraints
-**BADM 554 (Data Systems & Engineering)**
+**BADM 554 (Data Foundations)**
 - Focus: SQL + data wrangling + basic data modeling
 - Tools: Python (pandas, sqlalchemy), SQLFiddle, cloud SQL
 - No constraint on rubric name (could be MSBAi554 or stay as 554)

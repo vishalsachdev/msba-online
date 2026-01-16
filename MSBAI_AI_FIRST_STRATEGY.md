@@ -146,34 +146,30 @@ All MSBAi learning outcomes follow the **Literacy-Competency-Expertise** progres
 **8-Week Structure (Part 1 + Part 2 = 4 credits total):**
 
 *Fall 1 (2 credits, 4 weeks):*
-- Week 1: Visualization principles (Anscombe's quartet, misleading charts, AI-generated infographics)
-- Week 2: Financial data exploration (APIs, real market data)
-- Week 3: Storytelling frameworks (3-act structure, narrative tension)
-- Week 4: Build company deep-dive story (part 1)
+- Week 1: Addressing business analytics questions using data visualizations (Anscombe's quartet, Use of AI, Types and purposes of data visualizations)
+- Week 2: Master the Data: Data qualities and types (data cleaning tasks using real market data)
+- Week 3: Master the Data: Data visualization design principles (gestalt principles, accessibility guidelines, checklist, ethical visualizations)
+- Week 4: Perform the Analysis: Exploratory and explanatory visualizations for different analytics (descriptive, diagnostic, predictive, prescriptive analytics)
 
 *Fall 2 (2 credits, 4 weeks):*
-- Week 1: Advanced visualization (Tableau + Python matplotlib)
-- Week 2: Exploratory analysis (hypothesis generation)
-- Week 3: Refine narrative with AI feedback (use Claude to critique your story)
-- Week 4: Final presentations (video + written analysis)
+- Week 1: Share the Story: The importance of storytelling (elements of a data story, refining visualizations)
+- Week 2: Share the Story: The use of dashboards and infographics (dashboard design considerations)
+- Week 3: Alternative visualizations (quantities of range, observations, dimensions, and comparisons)
+- Week 4: Capstone case presentations (video + written analysis)
 
-**Semester-Long Project:** Each student selects a public company and creates a 5-part analytical portfolio:
-1. Financial snapshot (quarter analysis)
-2. Peer benchmarking
-3. Market sentiment analysis (using Claude to summarize earnings calls)
-4. Prediction: 3-month outlook
-5. Narrative: "Why this company matters to investors"
+**Semester-Long Project:** 
+Each student identifies one or more datasets, analyzes it, and creates a data story that they can share in their portfolio.
 
 **Technology Stack:**
-- Python (pandas, matplotlib, seaborn, plotly)
+- Python (pandas, matplotlib, seaborn, plotly, streamlit, dash)
 - Tableau Public (visualization)
 - Financial APIs (Yahoo Finance, FRED, SEC Edgar)
-- Claude (narrative refinement, earnings call summarization)
+- AI (access data, refine plots, create dashboards, narrative refinement, earnings call summarization)
 
 **AI Integration:**
-- Use Claude to summarize earnings calls and generate key findings
+- Use AI to access data, summarize data (e.g., earnings calls), make forecasts, and generate key findings
 - AI-generated chart captions and insights
-- Claude as "editor" for narrative refinement ("Make this paragraph more compelling")
+- AI as "editor" for narrative refinement ("Make this paragraph more compelling")
 
 ---
 

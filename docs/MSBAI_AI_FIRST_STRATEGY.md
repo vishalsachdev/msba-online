@@ -103,6 +103,165 @@ All MSBAi learning outcomes follow the **Literacy-Competency-Expertise** progres
 
 ---
 
+## Core Courses (32 credits total)
+
+### **Fall 1** — Foundation & Data Thinking (12 credits)
+
+#### **BADM 554: Data Foundations (4 credits)**
+*Formerly: Enterprise Database Management*
+
+**Rationale:** Renamed to emphasize data engineering focus + Python-first approach
+
+**Learning Outcomes (L-C-E):**
+- **Literacy:** Explain how databases store, retrieve, and process data; understand SQL's role in data pipelines
+- **Competency:** Write SQL queries in Python; use pandas DataFrames to manipulate data; design basic data models
+- **Expertise:** Design scalable data systems; integrate APIs into Python workflows
+
+**8-Week Structure:**
+- **Week 1:** Database fundamentals + SQL SELECT/WHERE in Python
+- **Week 2:** JOINs and data wrangling with pandas
+- **Week 3:** Data modeling + ER diagrams (with AI-generated documentation)
+- **Week 4:** Real-world data pipeline (API → Database → Python → Analysis)
+- **Week 5-6:** Mini-project 1 (ETL pipeline for financial data)
+- **Week 7:** NoSQL and document databases (MongoDB + Python)
+- **Week 8:** Final project + presentations
+
+**Technology Stack:**
+- Python (pandas, sqlalchemy, pymongo)
+- SQLFiddle + cloud SQL database
+- Jupyter Notebooks + Jupyter Book
+- Claude/ChatGPT (AI pair-programming for SQL debugging)
+
+**AI Integration:**
+- Use Claude to generate SQL queries from natural language ("write a query to find the top 10 customers by revenue")
+- AI debugging: "Why doesn't this JOIN work?"
+- AI documentation: "Write a docstring for this ETL function"
+
+---
+
+#### **BDI 513: Data Storytelling & Communication (4 credits)**
+*Split: Part 1 (Fall 1, 2 credits) + Part 2 (Fall 2, 2 credits)*
+
+**Renamed emphasis:** "Data Storytelling with AI" — AI as co-author for narratives
+
+**Learning Outcomes (L-C-E):**
+- **Literacy:** Explain principles of effective data visualization and narrative communication
+- **Competency:** Create compelling data stories that translate analysis into business insight; use AI to refine narratives
+- **Expertise:** Lead data-driven decision-making through strategic storytelling
+
+**8-Week Structure (Part 1 + Part 2 = 4 credits total):**
+
+*Fall 1 (2 credits, 4 weeks):*
+- Week 1: Addressing business analytics questions using data visualizations (Anscombe's quartet, Use of AI, Types and purposes of data visualizations)
+- Week 2: Master the Data: Data qualities and types (data cleaning tasks using real market data)
+- Week 3: Master the Data: Data visualization design principles (gestalt principles, accessibility guidelines, checklist, ethical visualizations)
+- Week 4: Perform the Analysis: Exploratory and explanatory visualizations for different analytics (descriptive, diagnostic, predictive, prescriptive analytics)
+
+*Fall 2 (2 credits, 4 weeks):*
+- Week 1: Share the Story: The importance of storytelling (elements of a data story, refining visualizations)
+- Week 2: Share the Story: The use of dashboards and infographics (dashboard design considerations)
+- Week 3: Alternative visualizations (quantities of range, observations, dimensions, and comparisons)
+- Week 4: Capstone case presentations (video + written analysis)
+
+**Semester-Long Project:** 
+Each student identifies one or more datasets, analyzes it, and creates a data story that they can share in their portfolio.
+
+**Technology Stack:**
+- Python (pandas, matplotlib, seaborn, plotly, streamlit, dash)
+- Tableau Public (visualization)
+- Financial APIs (Yahoo Finance, FRED, SEC Edgar)
+- AI (access data, refine plots, create dashboards, narrative refinement, earnings call summarization)
+
+**AI Integration:**
+- Use AI to access data, summarize data (e.g., earnings calls), make forecasts, and generate key findings
+- AI-generated chart captions and insights
+- AI as "editor" for narrative refinement ("Make this paragraph more compelling")
+
+---
+
+#### **FIN 550: Big Data Analytics in Finance (4 credits)**
+*Renamed: "Financial Analytics with Machine Learning"*
+
+**Learning Outcomes (L-C-E):**
+- **Literacy:** Understand financial data types, time series analysis, and ML for prediction
+- **Competency:** Build predictive models for financial outcomes; use Python for causal analysis
+- **Expertise:** Design portfolio strategies using ML; understand when to use causal vs. predictive approaches
+
+**8-Week Structure:**
+- **Week 1:** Financial data + time series basics (Python + yfinance)
+- **Week 2:** Exploratory analysis + correlation investigation
+- **Week 3:** Regression models (linear, multiple, logistic)
+- **Week 4:** Classification + tree-based models
+- **Week 5-6:** Mini-project 1 (Build a stock predictor)
+- **Week 7:** Causal inference + difference-in-differences (M&A analysis)
+- **Week 8:** Final capstone + presentations
+
+**Mini-Projects:**
+1. **Week 5-6:** Predict next quarter returns using fundamental data (use Claude to formulate hypotheses)
+2. **Week 8:** Analyze market reaction to corporate announcements (causal analysis)
+
+**Technology Stack:**
+- Python (scikit-learn, pandas, statsmodels, causalml)
+- Financial data APIs (Yahoo Finance, Quandl, IEX Cloud)
+- Cloud environment (AWS Free Tier for data storage)
+
+**AI Integration:**
+- Claude to brainstorm feature engineering approaches ("What financial ratios might predict returns?")
+- AI debugging for complex statistical models
+- Claude summarization of research papers on financial ML
+
+---
+
+### **Fall 2** (8 credits)
+
+#### **FIN 550 (continued)** - Second half runs in Fall 2
+See above; second 4 weeks of 8-week course.
+
+#### **BDI 513 (Part 2)** - Continuation
+See above; concludes storytelling narrative project with final presentations.
+
+---
+
+### **Spring 1** (12 credits) — Analytics & AI Specialization
+
+#### **BADM 557: Decision Intelligence with AI (4 credits)**
+*New name emphasizes AI, shortened from on-campus version*
+
+**Refined from Subramanyam on-campus version with AI-first approach**
+
+**Learning Outcomes (L-C-E):**
+- **Literacy:** Understand analytics lifecycle, BI tools, and role of AI in decision-making
+- **Competency:** Use Tableau + Python to create dashboards and analytics models; evaluate AI-generated insights
+- **Expertise:** Design BI systems that combine human judgment with AI automation
+
+**8-Week Structure:**
+- **Week 1-2:** Case studies + analytics frameworks
+- **Week 3-4:** Tableau fundamentals + AI-assisted visualization (Claude for chart interpretation)
+- **Week 5:** Classification algorithms + business case study
+- **Week 6:** Clustering analysis + customer segmentation
+- **Week 7:** Capstone project definition
+- **Week 8:** Presentations + reflection
+
+**Assessment:**
+- 4-5 case write-ups (1.5 pages each, refined with Claude feedback)
+- Weekly participation + discussion posts
+- Final project: Build a Tableau dashboard + Python classification model on real business problem
+
+**Technology Stack:**
+- Python (scikit-learn, pandas)
+- Tableau Public
+- HBS case studies + business datasets
+- Claude (case analysis support, model interpretation)
+
+**AI Integration:**
+- Use Claude to brainstorm business problems suitable for analytics
+- AI-assisted model interpretation ("Explain what this random forest is doing")
+- Claude reviews draft case write-ups ("Is this analysis missing anything?")
+
+---
+
+#### **ANALYTICS ELECTIVE — AI Focus (2 credits)**
+*New course: "Generative AI for Analytics"*
 ## Core Courses (36 credits total)
 
 **See [ONLINE_CURRICULUM_STRUCTURE.md](ONLINE_CURRICULUM_STRUCTURE.html) for complete course details, weekly schedules, and faculty assignments.**

@@ -9,15 +9,21 @@
 
 ## Executive Summary
 
-MSBAi is a **24-month online Master of Science in Business Analytics designed with AI as the central organizing principle**, not a supplementary topic. Every course integrates practical AI tools, prompt engineering, and LLM-assisted analysis. The program combines:
+MSBAi is an **18-month, 36-credit online Master of Science in Business Analytics designed with AI as the central organizing principle**, not a supplementary topic. Every course integrates practical AI tools, prompt engineering, and LLM-assisted analysis.
 
-- **8-week modular format** (enabling workforce flexibility)
-- **Python + Jupyter Notebooks** as the common computational backbone
-- **Applied experiential learning** (capstones, consulting projects, corporate partnerships)
-- **Three stackable pathways** (Core Analytics, AI Analytics, Industry Specialization)
-- **Career-first design** for mid-career professionals ("promotion seekers" and "career pivoters")
+**Program Structure:**
+- **Duration:** 18 months (4 semesters + 1 summer)
+- **Credits:** 36 total (24 core + 8 elective + 4 capstone)
+- **Format:** 8-week modular courses within 16-week semesters
+- **Common Thread:** Python + Jupyter Notebooks across all courses
 
-**Target Market:** Working professionals seeking career advancement in analytics + AI, with emphasis on affordability, flexibility, and concrete job placement outcomes.
+**Key Features:**
+- **AI-First Curriculum:** Every course integrates AI tools and workflows (not optional)
+- **Stackable Certificates:** Core Analytics (12 mo), AI Analytics (18 mo), Industry Specialization (18 mo)
+- **Applied Learning:** Portfolio-based assessment + real client capstones
+- **Career-Focused:** Designed for promotion seekers and career pivoters
+
+**Target Market:** Working professionals seeking career advancement in analytics + AI, emphasizing affordability, flexibility, and job-ready outcomes.
 
 ---
 
@@ -257,337 +263,192 @@ See above; concludes storytelling narrative project with final presentations.
 #### **ANALYTICS ELECTIVE — AI Focus (2 credits)**
 *New course: "Generative AI for Analytics"*
 
-**Rationale:** Market research emphasizes AI/GenAI as top emerging skill. This elective provides hands-on LLM applications.
+**See [ONLINE_CURRICULUM_STRUCTURE.md](ONLINE_CURRICULUM_STRUCTURE.html) for complete course details, weekly schedules, and faculty assignments.**
 
-**Learning Outcomes (L-C-E):**
-- **Literacy:** Explain how LLMs work; understand prompt engineering fundamentals
-- **Competency:** Use LLMs effectively for data analysis, code generation, and insight generation; design AI workflows
-- **Expertise:** Develop custom AI solutions for analytics problems; understand RAG and fine-tuning
+### Curriculum Overview Table
 
-**Content (8 weeks, fast-paced):**
-- **Week 1:** LLM fundamentals (how they work, limitations, hallucinations)
-- **Week 2:** Prompt engineering best practices (shot learning, chain-of-thought, role-based prompts)
-- **Week 3:** RAG (Retrieval-Augmented Generation) — AI that learns from your documents
-- **Week 4:** AI for data exploration (automated insight generation)
-- **Week 5:** LLM APIs and automation (using Claude API, OpenAI API)
-- **Week 6:** Building AI-enhanced analytics workflows
-- **Week 7:** Project work
-- **Week 8:** Presentations
+| Semester | Courses | Credits | Focus | L-C-E Stage |
+|----------|---------|---------|-------|-------------|
+| **Fall 2026** | BADM 554 (Data Foundations)<br/>BDI 513 (Data Storytelling)<br/>FIN 550 (Analytics for Business) | 12 | Foundations + AI literacy | **Literacy → Competency** |
+| **Spring 2027** | BADM 558 (Big Data Infrastructure)<br/>Generative AI for Analytics<br/>Quantum Computing | 8 | Infrastructure + emerging tech | **Competency** |
+| **Summer 2027** | BADM 557 (Decision Intelligence) | 4 | Decision-making with AI | **Competency → Expertise** |
+| **Fall 2027** | BADM 576 (ML & Data Science)<br/>Specialization Elective | 8 | Machine learning + domain expertise | **Expertise** |
+| **Spring 2028** | Capstone/Practicum | 4 | Applied project | **Expertise** |
 
-**Projects:**
-- Build a RAG system that analyzes company financial documents
-- Create an AI agent that automatically generates weekly analytics summaries
-- Fine-tune a model on business-specific language
+### Key Course Highlights: AI Integration
 
-**Technology Stack:**
-- Python (langchain, llamaindex for RAG)
-- Claude API, OpenAI API, Hugging Face
-- Google Colab (no local setup needed)
+**Every course integrates AI tools and workflows:**
 
-**AI Integration:** Ironically, students will use AI extensively to build AI solutions
+**BADM 554 (Data Foundations)** — Students use Claude to generate SQL queries from natural language, debug complex JOINs, and write data pipeline documentation. AI as pair-programming partner for database work.
 
----
+**BDI 513 (Data Storytelling)** — Students use Claude to summarize earnings calls, critique narrative drafts, and generate chart captions. Semester project: Company analysis with AI-assisted insights.
 
-#### **QUANTUM COMPUTING (2 credits)** — *TBD Decision*
+**FIN 550 (Analytics for Business)** — Claude helps brainstorm feature engineering approaches, debug statistical models, and summarize research papers on financial ML.
 
-**Strategic Question:** What should this cover?
+**BADM 558 (Big Data Infrastructure)** — Students use Claude for AWS architecture advice and AI code generation for Lambda functions and Spark jobs.
 
-**Option A: Quantum for Optimization**
-- Quantum algorithms for portfolio optimization
-- Traveling salesman problems (route optimization)
-- Supply chain optimization
-- Focus: Practical business applications of quantum computing
+**Generative AI for Analytics (2 cr)** — Hands-on LLM applications: Build RAG systems, create AI agents for analytics automation, design prompt-based workflows. The meta-course: using AI to build AI solutions.
 
-**Option B: Quantum-Resistant Cryptography**
-- Post-quantum security implications for business
-- Data privacy in quantum era
-- Focus: Risk management and data security
+**Quantum Computing (2 cr)** — Business-focused quantum fundamentals using IBM Qiskit. Students compare quantum vs classical solutions for optimization problems (portfolio allocation, supply chain).
 
-**Option C: Introductory Quantum Algorithms**
-- General quantum computing fundamentals
-- IBM Qiskit exercises
-- Focus: Breadth understanding
+**BADM 557 (Decision Intelligence)** — AI-assisted case analysis, Tableau + Python dashboards, Claude reviews draft case write-ups and interprets classification models.
 
-**Recommendation:** Option A (Quantum for Optimization) — Most relevant for analytics focus and closest to IBC recommendation for "emerging tech coverage (AI/GenAI, cloud, ML ops)"
+**BADM 576 (ML & Data Science)** — Claude suggests features, reviews cross-validation code, and provides model interpretation guidance. End-to-end ML pipelines with AI-assisted development.
 
----
+### L-C-E Framework: Curriculum Progression
 
-### **Spring 2** (4 credits)
+All MSBAi learning outcomes follow the **Literacy-Competency-Expertise** progression:
 
-#### **BADM 558: Big Data Infrastructure & Cloud (4 credits)**
-*Khandelwal's on-campus version, condensed for 8 weeks*
+| Level | Definition | Bloom's Level | Curriculum Stage |
+|-------|-----------|---------------|------------------|
+| **Literacy (L)** | Foundational understanding of AI concepts, capabilities, limitations | Remember, Understand | **Fall 2026** — Core foundations |
+| **Competency (C)** | Practical application skills using AI tools in business workflows | Apply, Analyze | **Spring 2027-Summer 2027** — Infrastructure + decision-making |
+| **Expertise (E)** | Advanced development, customization, and strategic application | Evaluate, Create | **Fall 2027-Spring 2028** — ML + capstone |
 
-**Learning Outcomes (L-C-E):**
-- **Literacy:** Understand cloud architecture, big data processing, and data pipelines
-- **Competency:** Use AWS to build scalable data systems; write Spark jobs in Python
-- **Expertise:** Design and optimize end-to-end data architectures for business problems
+**Example: BADM 554 Learning Outcomes**
+- **Literacy:** Explain how databases store, retrieve, and process data; understand SQL's role in data pipelines
+- **Competency:** Write SQL queries in Python; use pandas DataFrames to manipulate data; design basic data models
+- **Expertise:** Design scalable data systems; integrate APIs into Python workflows
 
-**8-Week Structure:**
-- **Week 1:** AWS fundamentals (EC2, S3, RDS basics)
-- **Week 2:** Data ingestion and ETL (Lambda, Glue, Python scripting)
-- **Week 3:** Big data processing (Hadoop concepts, Spark with PySpark)
-- **Week 4:** Real-time processing (Kinesis, streaming)
-- **Week 5-6:** Mini-project (Build a data pipeline on AWS)
-- **Week 7:** Data lakes and warehouses
-- **Week 8:** Security, monitoring, capstone presentations
-
-**Cloud Credits:** AWS Educate provides free credits ($100+)
-
-**Technology Stack:**
-- Python (PySpark, boto3)
-- AWS (S3, EC2, Lambda, Glue, Kinesis, Athena)
-- Jupyter Notebooks (cloud-based)
-
-**AI Integration:**
-- Claude for AWS architecture advice ("Design a system to process 10GB of daily data")
-- AI code generation for Lambda functions and Spark jobs
-
----
-
-### **Summer** (4 credits)
-
-#### **BADM 576: Data Science & Machine Learning (4 credits)**
-*Khandelwal's comprehensive ML course, condensed*
-
-**Learning Outcomes (L-C-E):**
-- **Literacy:** Understand ML fundamentals, model types, and evaluation
-- **Competency:** Build end-to-end ML pipelines; train, validate, and deploy models
-- **Expertise:** Architect ML solutions for complex business problems; understand causal inference
-
-**8-Week Structure:**
-- **Week 1:** ML fundamentals + Python setup (scikit-learn, pandas)
-- **Week 2:** Regression (linear, regularized, polynomial)
-- **Week 3:** Classification (logistic, SVM, trees, ensemble)
-- **Week 4:** Unsupervised learning (clustering, PCA, dimensionality reduction)
-- **Week 5-6:** Mini-project (End-to-end ML pipeline)
-- **Week 7:** Time series + text analysis (NLP basics)
-- **Week 8:** Model evaluation, hyperparameter tuning, capstone
-
-**Technology Stack:**
-- Python (scikit-learn, pandas, matplotlib, nltk)
-- DataCamp modules (for foundational reinforcement)
-- Real datasets (Kaggle competitions, UCI ML repository)
-
-**AI Integration:**
-- Claude for feature engineering ideas ("What features might improve this model?")
-- AI code review ("Is this cross-validation implemented correctly?")
+*All courses follow this L-C-E structure. See individual course syllabi for complete learning outcome specifications.*
 
 ---
 
 ## Part 3: Specialization Pathways & Electives
 
+**See [ELECTIVES_ROADMAP.md](ELECTIVES_ROADMAP.html) for complete elective catalog and specialization tracks.**
+
 ### Three Stackable Pathways
 
-Students choose **one primary pathway** while maintaining flexibility:
+**Pathway 1: Core Analytics Certificate** (12 months)
+- Foundation: BADM 554, BDI 513, FIN 550
+- Value: Analytics fundamentals with finance focus
+- Career: Financial analyst, data analyst roles
 
-#### **Pathway 1: Core Analytics Certificate** (Can complete in 12 months)
-- BADM 554 (Data Foundations)
-- BDI 513 (Data Storytelling)
-- FIN 550 (Financial Analytics)
-- **Value:** Foundation in analytics + finance focus
-- **Career Target:** Financial analyst, data analyst roles
+**Pathway 2: AI Analytics Certificate** (18 months)
+- Core + AI specialization: Add BADM 557, BADM 558, GenAI, Quantum Computing, BADM 576
+- Value: Most differentiated — AI-first skillset
+- Career: AI product roles, analytics engineering, emerging tech
 
-#### **Pathway 2: AI Analytics Certificate** (Start Spring 1, complete Fall 3)
-- BADM 554 (Data Foundations)
-- BDI 513 (Data Storytelling)
-- FIN 550 (Financial Analytics)
-- **PLUS:** BADM 557 (Decision Intelligence with AI) + AI Elective (GenAI for Analytics)
-- **Value:** AI-focused skillset, most differentiated path
-- **Career Target:** AI product roles, analytics engineering, emerging tech focus
+**Pathway 3: Industry Specialization** (18 months)
+- Core + domain electives: Choose Finance, Healthcare, Marketing, or Data Engineering track
+- Value: Deep domain expertise + analytics skills
+- Career: Domain-specific analytics leadership roles
 
-#### **Pathway 3: Industry Specialization**
-- **Core:** BADM 554, BDI 513, FIN 550, BADM 557
-- **Industry-Specific Electives:** Choose 2-3 from:
-  - **Finance Track:** FIN 560+ courses (if available), portfolio analysis, risk
-  - **Marketing Analytics:** Customer segmentation, CLV prediction, attribution modeling
-  - **Supply Chain:** Demand forecasting, optimization, logistics analytics
-  - **Healthcare Analytics:** Patient outcomes, resource allocation, health economics
-  - **Tech/Operations:** Recommendation systems, A/B testing, product analytics
+### Elective Tracks
+
+**Finance Track:** Portfolio analysis, risk analytics, algorithmic trading
+**Marketing Track:** Customer analytics, segmentation, CLV prediction
+**Healthcare Track:** Patient outcomes, resource allocation, health economics
+**Data Engineering Track:** ML systems, data pipelines, cloud architecture
+
+*Full elective catalog available from existing MSBA program + new courses under development for online delivery*
 
 ---
 
-### Elective Mapping (From Existing MSBA Course Portfolio)
+## Part 4: Fall 2027-Spring 2028 — Specialization & Capstone
 
-**Available Accountancy Analytics Electives:**
-- Advanced Audit Analytics
-- Forensic Analytics
-- Tax Analytics
+### **Fall 2027** (8 credits)
+- **BADM 576: ML & Data Science** (4 credits, Weeks 1-8)
+- **Specialization Elective** (4 credits, Weeks 9-16) — Finance, Healthcare, Marketing, or Data Engineering track
 
-**Available Business Administration Analytics Electives:**
-- Applied Forecasting
-- Network Analysis for Business
-- Consumer Analytics
+### **Spring 2028 — Capstone/Practicum** (4 credits)
 
-**Available Finance Analytics Electives:**
-- Portfolio Analysis
-- Risk Analytics
-- Algorithmic Trading
-- Derivatives Analytics
+**Two-Part Structure:**
 
-**General Business Electives** (any graduate course)
-- Strategy (if offered online)
-- Organizational Behavior
-- Ethics & Governance
-- Operations Management
-- Entrepreneurship
+**Part 1: Portfolio Assembly (Weeks 1-2)**
+- Curate 3-4 best projects from degree (Jupyter notebooks, dashboards, code repositories)
+- Create GitHub portfolio + personal website
+- Practice portfolio pitch for job interviews
 
-**Recommendation for MSBAi:** Focus on **analytics-specific electives** and develop **new online versions** of top courses:
-- Customer Analytics (from Marketing)
-- Supply Chain Optimization (from Operations)
-- AI for Finance (new, built on FIN 550)
-- Recommendation Systems (new, built on BADM 576)
+**Part 2: Applied Client Project (Weeks 3-8)**
+- Real-world consulting project with Research Park partners
+- Teams of 3-4 students tackle actual business problem
+- Deliverable: Python code + Tableau dashboard + executive summary
+- AI-enhanced: Students use Claude for project planning, peer review, and documentation
 
 ---
 
-## Part 4: Fall 3-4 — Specialization & Capstone
+## Part 5: Implementation Roadmap
 
-### **Fall 3** (8 credits)
-- **Analytics Elective (4 credits)** — Choose based on pathway (finance, marketing, supply chain, etc.)
-- **Optional General Elective (4 credits)** OR **Second Analytics Elective (4 credits)**
+**Detailed implementation planning in [IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md](IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.html)**
 
-### **Fall 4 — Capstone/Practicum** (4 credits)
+### **Phase 1: Content Development** (Q1-Q2 2026)
+- Finalize 8-week course syllabi and Jupyter Book infrastructure
+- Record 60+ short lectures (10-15 min each)
+- Set up cloud infrastructure (JupyterHub, AWS credits, Tableau licenses)
+- Pilot with faculty + TAs before launch
 
-**Redesign from curriculum draft:** Integrate **portfolio + applied client project**
+### **Phase 2: Recruitment** (Q2-Q3 2026)
+**Marketing Message:** "The AI-First MSBA — Every student AI-ready, not AI-optional"
 
-**Structure:**
-- **Weeks 1-2:** Portfolio assembly
-  - Curate 3-4 best projects from degree
-  - Write reflection narratives ("Why this project matters")
-  - Create GitHub portfolio + personal website
-  - Practice portfolio pitch (3-min presentation)
+**Key Differentiators:**
+- AI integrated across all courses (not elective/optional)
+- Python + Jupyter portfolio-building environment
+- Stackable certificates + flexible 8-week format
+- Applied capstones with Research Park partners
+- Competitive pricing (20% cheaper than UT Austin, Penn State)
 
-- **Weeks 3-8:** Client project OR capstone research
-  - **Option A (Recommended):** Real-world consulting project via Research Park partnerships
-    - Partner with 1-2 mid-size companies from Research Park
-    - Teams of 3-4 students on real business problem
-    - Weekly mentorship from practicing data scientists
-    - Final deliverable: Python code + Tableau dashboard + executive summary
-  
-  - **Option B:** Independent capstone research
-    - Student selects business problem of interest
-    - Conducts literature review, designs study, executes analysis
-    - Produces journal-ready manuscript + code repository
+**Target Students:** Career pivoters, promotion seekers, mid-career analytics professionals
 
-**AI Integration in Capstone:**
-- Use Claude for project planning ("What's missing from my analysis?")
-- AI peer review ("What are the weaknesses in this argument?")
-- AI documentation ("Write a technical readme for my code")
-
----
-
-## Part 5: Implementation Roadmap (2026-2027)
-
-### **Phase 1: Content Development** (Jan-Apr 2026)
-
-**By April 1:**
-- [ ] Finalize all 8-week course syllabi (554, 513-Part1, 557, AI Elective, 558, 576)
-- [ ] Create Jupyter Books for each course (text + code + videos)
-- [ ] Record 60+ short lectures (10-15 min each)
-- [ ] Develop all lab assignments and mini-project specs
-- [ ] Set up cloud infrastructure (JupyterHub, AWS credits, Tableau licenses)
-
-**By June 1:**
-- [ ] All course materials complete and tested
-- [ ] Pilot run with small cohort (faculty + TAs)
-- [ ] Refine based on pilot feedback
-
-### **Phase 2: Recruitment & Launch** (May-Aug 2026)
-
-**Marketing Messaging:** "The AI-First MSBA — Built for the future, affordable for now"
-
-**Differentiation Claims:**
-- ✅ Every student graduates AI-ready (not optional)
-- ✅ Learn in Python + Jupyter (portfolio-building environment)
-- ✅ Stackable certificates (earn credentials along the way)
-- ✅ Applied capstones (solve real business problems)
-- ✅ Affordability (20% cheaper than UT Austin, Penn State, similar to Iowa)
-- ✅ Flexible 8-week courses (work while you learn)
-- ✅ Global community (20,000+ Gies online learners)
-
-**Target Personas (from IBC research):**
-1. **Career Pivoters** — Switching to analytics/AI
-2. **Promotion Seekers** — Advancing in current role with AI skills
-3. **Mid-Career Professionals** — Already in analytics, seeking formalization + AI depth
-
-### **Phase 3: Fall 1 Launch** (Aug 2026)
-
-**Admit cohort:** 50-75 students (conservative first cohort)
-
-**Courses running:**
-- BADM 554 (Data Foundations) — Weeks 1-8
-- BDI 513 Part 1 (Data Storytelling) — Weeks 1-8
-- Support infrastructure in place (office hours, peer study groups, career services)
+### **Phase 3: Fall 2026 Launch**
+- Admit cohort: 50-75 students (conservative first launch)
+- Courses: BADM 554, BDI 513, FIN 550 (Fall 2026 semester)
+- Support: Office hours, peer study groups, career services
 
 ---
 
 ## Part 6: Success Metrics & KPIs
 
-### **Student Success Metrics**
-- **Course Completion Rate:** >95% (vs. industry avg 85%)
-- **Student Satisfaction:** NPS >70 (promoter score >70%)
-- **Skill Mastery:** 80% of students master core competencies (assessed via projects)
-- **Portfolio Readiness:** 100% of graduates have GitHub portfolio + 3+ project examples
+**Student Success:**
+- Course completion: >95% (vs. 85% industry avg)
+- Student satisfaction: NPS >70
+- Portfolio readiness: 100% have GitHub portfolio + 3+ projects
+- Job placement: 90% in analytics/AI role within 6 months
+- Salary improvement: Avg +$15K post-graduation
 
-### **Program Metrics**
-- **Job Placement:** 90% of graduates employed in analytics/AI role within 6 months
-- **Salary Improvement:** Avg +$15K salary increase post-graduation
-- **Enrollment Growth:** Target 600 students by Year 3 (following iMSA trajectory)
-- **Retention:** >85% of students who start complete (vs. industry avg 70%)
+**Program Growth:**
+- Year 1: 50-75 students (conservative launch)
+- Year 3: 600 students (following iMSA growth trajectory)
+- Retention: >85% completion rate
 
-### **Market Differentiation**
-- **AI Skill Coverage:** Unique "AI-First" messaging (no competitor uses this)
-- **Affordability:** Bottom quartile pricing vs. comparable programs
-- **Flexibility:** Only program with modular 8-week + stackable pathway model
-- **Applied Learning:** 100% of graduates complete real or simulated capstone
+**Market Differentiation:**
+- AI-First positioning (unique in market)
+- Affordability (bottom quartile pricing)
+- Flexible 8-week modular format
+- Applied capstones with real clients
 
 ---
 
-## Part 7: Budget & Resource Requirements
+## Part 7: Resource Requirements
 
-### **Content Development** (~$150K one-time)
-- Instructional design (100 hrs @ $150/hr): $15K
-- Video production (60 videos, 30 hours @ $500/hr): $30K
-- Course materials + datasets: $10K
-- Jupyter Book infrastructure + hosting: $5K
+**See [IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md](IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.html) for detailed budget breakdown.**
 
-### **Technology Infrastructure** (~$100K/year)
-- JupyterHub cloud hosting: $30K/year
-- AWS credits (pass-through to students): $20K/year (reimbursable)
-- Tableau licenses (student discounts): $15K/year
-- LMS + video hosting: $20K/year
-- Support staff (2 FTE): $15K/year
-
-### **Faculty/Instruction**
-- Course development (5 instructors × 100 hrs each): Included in current workload
-- Teaching/mentoring (8 hrs/week during delivery): Included
-- TA support (2-3 TAs during delivery): $30K/term
-
-### **Marketing & Recruitment** (~$50K/year)
-- Digital marketing: $30K
-- Recruiting events + partnerships: $20K
-
-**Total Year 1:** ~$300K + operational costs
+**Summary:**
+- **Content Development:** ~$150K (one-time)
+- **Technology Infrastructure:** ~$100K/year (JupyterHub, AWS, Tableau, LMS)
+- **Faculty & TA Support:** ~$30K/term
+- **Marketing:** ~$50K/year
+- **Total Year 1:** ~$300K + operational costs
 
 ---
 
 ## Conclusion
 
-**MSBAi differentiates through:**
+**MSBAi Strategic Differentiation:**
 
-1. **AI-First, Not AI-Optional:** Every student leaves with practical LLM + AI analytics skills
-2. **Flexibility & Affordability:** 8-week courses + stackable pathways at competitive price
-3. **Applied & Portfolio-Driven:** Real capstones, GitHub portfolios, job-ready outcomes
-4. **Jupyter-Native Environment:** Python + Jupyter as common thread = reproducibility, community, career-readiness
-5. **Aligned with Market Trends:** Addresses IBC's top gaps (AI fluency, emerging tech, applied learning)
+1. **AI-First, Not AI-Optional** — Every student graduates with practical LLM and AI analytics skills integrated across all courses
+2. **Python + Jupyter Native** — Common computational backbone creates reproducibility, peer learning, and portfolio-ready outputs
+3. **Flexible & Affordable** — 8-week modular format + stackable certificates at competitive pricing
+4. **Applied Learning** — Real capstones with Research Park partners, GitHub portfolios, job-ready skills
+5. **Market-Aligned** — Addresses top employer needs identified in IBC research: AI fluency, emerging tech, applied experience
 
-**Next Steps:**
-1. Finalize TBD course specifications (Quantum, Fall 3 electives)
-2. Assign faculty to course development teams
-3. Build Jupyter Book infrastructure
-4. Create recruitment messaging + marketing plan
-5. Identify Research Park + corporate partners for capstone projects
+**Strategic Positioning:** "The AI-First MSBA — Where every graduate is AI-ready"
 
 ---
 
-*Document prepared: January 12, 2026*  
-*Informed by: Gies AI Integration Strategy | IBC Student Consulting Report | MSBA Course Portfolio*
+*Document Version: January 2026*
+*For operational details, see:*
+- *[ONLINE_CURRICULUM_STRUCTURE.md](ONLINE_CURRICULUM_STRUCTURE.html) — Course schedules, faculty, weekly structure*
+- *[IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.md](IMPLEMENTATION_PLAN_AND_TASK_BREAKDOWN.html) — Launch timeline, budget, tasks*
+- *[ELECTIVES_ROADMAP.md](ELECTIVES_ROADMAP.html) — Specialization tracks, elective courses*
